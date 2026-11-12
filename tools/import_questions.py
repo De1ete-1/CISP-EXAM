@@ -10,6 +10,7 @@ from pathlib import Path
 import pdfplumber
 import pypdfium2 as pdfium
 from pypdf import PdfReader
+from source_data import attach_textbook_sources
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -105,6 +106,7 @@ def main():
     assert current == 522, current
     for q in bank:
         assert len(q['explanation']) > 8, (q['id'], q['explanation'])
+    attach_textbook_sources(bank, ROOT)
     (ROOT / 'data/questions.json').write_text(json.dumps(bank, ensure_ascii=False, indent=2) + '\n')
     print(f"Imported {len(bank)} questions, {sum(len(q['images']) for q in bank)} figures; {sum(q['explanationSource'] == '学习补充' for q in bank)} explanations supplemented.")
 

@@ -1,0 +1,6919 @@
+{
+  "version": 1,
+  "book": {
+    "title": "注册信息安全专业人员培训教材",
+    "file": "注册信息安全专业人员培训教材7.13.pdf",
+    "pdfPageCount": 440,
+    "printedPageOffset": 5,
+    "sha256": "7c3a4a4e3859af42a8978d4864def09c209bc49e04add0e07fd0affcf1cbe8c4"
+  },
+  "sections": [
+    {
+      "code": "1.1.1",
+      "title": "信息安全概念",
+      "page": 1,
+      "chapter": "第 1 章 信息安全保障"
+    },
+    {
+      "code": "1.1.2",
+      "title": "信息安全属性",
+      "page": 6,
+      "chapter": "第 1 章 信息安全保障"
+    },
+    {
+      "code": "1.1.3",
+      "title": "信息安全视角",
+      "page": 8,
+      "chapter": "第 1 章 信息安全保障"
+    },
+    {
+      "code": "1.1.4",
+      "title": "信息安全发展阶段",
+      "page": 13,
+      "chapter": "第 1 章 信息安全保障"
+    },
+    {
+      "code": "1.1.5",
+      "title": "信息安全保障新领域",
+      "page": 17,
+      "chapter": "第 1 章 信息安全保障"
+    },
+    {
+      "code": "1.2.1",
+      "title": "基于时间的安全模型",
+      "page": 25,
+      "chapter": "第 1 章 信息安全保障"
+    },
+    {
+      "code": "1.2.2",
+      "title": "信息安全保障技术框架",
+      "page": 28,
+      "chapter": "第 1 章 信息安全保障"
+    },
+    {
+      "code": "1.2.3",
+      "title": "信息系统安全保障评估框架",
+      "page": 31,
+      "chapter": "第 1 章 信息安全保障"
+    },
+    {
+      "code": "1.2.4",
+      "title": "企业安全架构",
+      "page": 39,
+      "chapter": "第 1 章 信息安全保障"
+    },
+    {
+      "code": "2.1.1",
+      "title": "计算机犯罪",
+      "page": 43,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.1.2",
+      "title": "我国立法体系",
+      "page": 47,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.1.3",
+      "title": "网络安全法",
+      "page": 49,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.1.4",
+      "title": "网络安全相关法规",
+      "page": 53,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.2.1",
+      "title": "国家网络空间安全战略",
+      "page": 59,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.2.2",
+      "title": "网络安全等级保护相关政策",
+      "page": 60,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.3.1",
+      "title": "道德约束",
+      "page": 62,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.3.2",
+      "title": "职业道德准则",
+      "page": 63,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.4.1",
+      "title": "信息安全标准基础",
+      "page": 65,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.4.2",
+      "title": "我国信息安全标准",
+      "page": 70,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "2.4.3",
+      "title": "网络安全等级保护标准族",
+      "page": 75,
+      "chapter": "第 2 章 网络安全监管"
+    },
+    {
+      "code": "3.1.1",
+      "title": "基本概念",
+      "page": 80,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.1.2",
+      "title": "信息安全管理的作用及对组织的价值",
+      "page": 82,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.2.1",
+      "title": "风险管理基本概念",
+      "page": 84,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.2.2",
+      "title": "常见风险管理模型",
+      "page": 87,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.2.3",
+      "title": "安全风险管理基本过程",
+      "page": 89,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.3.1",
+      "title": "信息安全管理体系成功因素",
+      "page": 93,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.3.2",
+      "title": "PDCA 过程",
+      "page": 94,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.3.3",
+      "title": "信息安全管理体系建设过程",
+      "page": 96,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.3.4",
+      "title": "文档化",
+      "page": 99,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.4.1",
+      "title": "信息安全管理体系控制类型",
+      "page": 101,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.4.2",
+      "title": "信息安全管理体系控制措施结构",
+      "page": 101,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.4.3",
+      "title": "信息安全管理体系控制措施",
+      "page": 103,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.5.1",
+      "title": "基本概念",
+      "page": 129,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "3.5.2",
+      "title": "测量要求与实现",
+      "page": 131,
+      "chapter": "第 3 章 信息安全管理"
+    },
+    {
+      "code": "4.1.1",
+      "title": "业务连续性管理基础",
+      "page": 133,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "4.1.2",
+      "title": "业务连续性计划",
+      "page": 135,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "4.2.1",
+      "title": "信息安全事件与应急响应",
+      "page": 145,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "4.2.2",
+      "title": "网络安全应急响应预案",
+      "page": 150,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "4.2.3",
+      "title": "计算机取证与保全",
+      "page": 151,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "4.2.4",
+      "title": "信息安全应急响应管理过程",
+      "page": 152,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "4.3.1",
+      "title": "灾难备份与恢复基础",
+      "page": 155,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "4.3.2",
+      "title": "灾难恢复相关技术",
+      "page": 158,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "4.3.3",
+      "title": "灾难恢复策略",
+      "page": 163,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "4.3.4",
+      "title": "灾难恢复管理过程",
+      "page": 167,
+      "chapter": "第 4 章 业务连续性"
+    },
+    {
+      "code": "5.1.1",
+      "title": "系统安全工程基础",
+      "page": 173,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.1.2",
+      "title": "系统安全工程理论基础",
+      "page": 175,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.1.3",
+      "title": "系统安全工程能力成熟度模型",
+      "page": 179,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.1.4",
+      "title": "SSE-CMM 的安全工程过程",
+      "page": 182,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.1.5",
+      "title": "SSE-CMM 的安全工程能力",
+      "page": 203,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.2.1",
+      "title": "安全运营概述",
+      "page": 207,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.2.2",
+      "title": "安全运营管理",
+      "page": 207,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.3.1",
+      "title": "内容安全基础",
+      "page": 212,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.3.2",
+      "title": "数字版权",
+      "page": 214,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.3.3",
+      "title": "信息保护",
+      "page": 216,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.3.4",
+      "title": "网络舆情",
+      "page": 219,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.4.1",
+      "title": "社会工程学",
+      "page": 221,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "5.4.2",
+      "title": "培训及教育",
+      "page": 224,
+      "chapter": "第 5 章 安全工程与运营"
+    },
+    {
+      "code": "6.1.1",
+      "title": "安全评估概念",
+      "page": 226,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "6.1.2",
+      "title": "安全评估标准",
+      "page": 228,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "6.2.1",
+      "title": "风险评估相关要素",
+      "page": 239,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "6.2.2",
+      "title": "风险评估途径与方式方法",
+      "page": 246,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "6.2.3",
+      "title": "风险评估基本过程",
+      "page": 250,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "6.2.4",
+      "title": "风险评估文档",
+      "page": 260,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "6.3.1",
+      "title": "审计原则与方法",
+      "page": 260,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "6.3.2",
+      "title": "审计技术控制",
+      "page": 264,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "6.3.3",
+      "title": "审计管理控制",
+      "page": 266,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "6.3.4",
+      "title": "审计报告",
+      "page": 267,
+      "chapter": "第 6 章 信息安全评估"
+    },
+    {
+      "code": "7.1.1",
+      "title": "密码学基本概念",
+      "page": 269,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.1.2",
+      "title": "对称密码算法",
+      "page": 273,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.1.3",
+      "title": "非对称密码算法",
+      "page": 277,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.1.4",
+      "title": "其他密码服务",
+      "page": 282,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.1.5",
+      "title": "公钥基础设施",
+      "page": 286,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.2.1",
+      "title": "身份鉴别的概念",
+      "page": 293,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.2.2",
+      "title": "基于实体所知的鉴别",
+      "page": 294,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.2.3",
+      "title": "基于实体所有的鉴别",
+      "page": 297,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.2.4",
+      "title": "基于实体特征的鉴别",
+      "page": 298,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.2.5",
+      "title": "Kerberos 体系",
+      "page": 300,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.2.6",
+      "title": "认证、授权和计费",
+      "page": 303,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.3.1",
+      "title": "访问控制模型的基本概念",
+      "page": 305,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.3.2",
+      "title": "自主访问控制模型",
+      "page": 306,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.3.3",
+      "title": "强制访问控制模型",
+      "page": 308,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.3.4",
+      "title": "基于角色的访问控制模型",
+      "page": 312,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "7.3.5",
+      "title": "特权管理基础设施",
+      "page": 315,
+      "chapter": "第 7 章 信息安全支撑技术"
+    },
+    {
+      "code": "8.1.1",
+      "title": "环境安全",
+      "page": 319,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.1.2",
+      "title": "设施安全",
+      "page": 326,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.1.3",
+      "title": "传输介质安全",
+      "page": 327,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.2.1",
+      "title": "OSI 模型",
+      "page": 329,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.2.2",
+      "title": "OSI 模型通信过程",
+      "page": 330,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.2.3",
+      "title": "OSI 七层模型安全体系",
+      "page": 331,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.3.1",
+      "title": "协议结构及安全问题",
+      "page": 334,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.3.2",
+      "title": "安全解决方案",
+      "page": 336,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.4.1",
+      "title": "蓝牙安全",
+      "page": 339,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.4.2",
+      "title": "无线局域网安全",
+      "page": 340,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.4.3",
+      "title": "RFID 安全",
+      "page": 345,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.5.1",
+      "title": "欺骗攻击",
+      "page": 346,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.5.2",
+      "title": "拒绝服务攻击",
+      "page": 349,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.6.1",
+      "title": "边界防护",
+      "page": 350,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.6.2",
+      "title": "检测与审计",
+      "page": 352,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "8.6.3",
+      "title": "接入管理",
+      "page": 354,
+      "chapter": "第 8 章 物理与网络通信安全"
+    },
+    {
+      "code": "9.1.1",
+      "title": "操作系统安全机制",
+      "page": 356,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.1.2",
+      "title": "操作系统安全配置要点",
+      "page": 360,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.2.1",
+      "title": "信息收集",
+      "page": 362,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.2.2",
+      "title": "缓冲区溢出攻击",
+      "page": 365,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.3.1",
+      "title": "恶意代码预防",
+      "page": 368,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.3.2",
+      "title": "恶意代码检测与分析",
+      "page": 370,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.3.3",
+      "title": "恶意代码的清除",
+      "page": 371,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.3.4",
+      "title": "基于互联网的恶意代码防护",
+      "page": 373,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.4.1",
+      "title": "Web 应用安全",
+      "page": 373,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.4.2",
+      "title": "电子邮件安全",
+      "page": 382,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.4.3",
+      "title": "其他互联网应用",
+      "page": 384,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.5.1",
+      "title": "数据库安全",
+      "page": 385,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "9.5.2",
+      "title": "数据泄漏防护",
+      "page": 386,
+      "chapter": "第 9 章 计算环境安全"
+    },
+    {
+      "code": "10.1.1",
+      "title": "软件生命周期模型",
+      "page": 388,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.1.2",
+      "title": "软件危机与安全问题",
+      "page": 392,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.1.3",
+      "title": "软件安全开发生命周期模型",
+      "page": 396,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.2.1",
+      "title": "威胁建模",
+      "page": 403,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.2.2",
+      "title": "软件安全需求分析",
+      "page": 406,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.2.3",
+      "title": "软件安全设计",
+      "page": 407,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.3.1",
+      "title": "安全编码原则",
+      "page": 410,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.3.2",
+      "title": "软件安全编译",
+      "page": 415,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.3.3",
+      "title": "代码安全审核",
+      "page": 415,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.4.1",
+      "title": "软件测试",
+      "page": 416,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.4.2",
+      "title": "软件安全测试",
+      "page": 420,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.5.1",
+      "title": "软件供应链安全",
+      "page": 424,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.5.2",
+      "title": "软件安全验收",
+      "page": 426,
+      "chapter": "第 10 章 软件安全开发"
+    },
+    {
+      "code": "10.5.3",
+      "title": "软件安全部署",
+      "page": 426,
+      "chapter": "第 10 章 软件安全开发"
+    }
+  ],
+  "questions": {
+    "1": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 249,
+        "endPage": 250,
+        "pdfPage": 254,
+        "pdfEndPage": 255
+      }
+    ],
+    "2": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 247,
+        "endPage": 248,
+        "pdfPage": 252,
+        "pdfEndPage": 253
+      }
+    ],
+    "3": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.4 基于实体特征的鉴别",
+        "page": 298,
+        "endPage": 300,
+        "pdfPage": 303,
+        "pdfEndPage": 305
+      }
+    ],
+    "4": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.1 密码学基本概念",
+        "page": 271,
+        "endPage": 271,
+        "pdfPage": 276,
+        "pdfEndPage": 276
+      }
+    ],
+    "5": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362,
+        "note": "教材介绍了操作系统中的用户标识与访问控制，未直接展开 Linux 主组、附加组的多对多关系。"
+      }
+    ],
+    "6": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 221,
+        "endPage": 221,
+        "pdfPage": 226,
+        "pdfEndPage": 226
+      }
+    ],
+    "7": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.4 企业安全架构",
+        "page": 39,
+        "endPage": 39,
+        "pdfPage": 44,
+        "pdfEndPage": 44
+      }
+    ],
+    "8": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.1 恶意代码预防",
+        "page": 368,
+        "endPage": 369,
+        "pdfPage": 373,
+        "pdfEndPage": 374
+      }
+    ],
+    "9": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.3 信息安全管理体系建设过程",
+        "page": 98,
+        "endPage": 98,
+        "pdfPage": 103,
+        "pdfEndPage": 103
+      }
+    ],
+    "10": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.6 认证、授权和计费",
+        "page": 304,
+        "endPage": 304,
+        "pdfPage": 309,
+        "pdfEndPage": 309
+      }
+    ],
+    "11": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 359,
+        "endPage": 359,
+        "pdfPage": 364,
+        "pdfEndPage": 364,
+        "note": "教材介绍最小特权和权限管理，但未直接给出本题涉及的 Linux capabilities 历史实现细节。"
+      }
+    ],
+    "12": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.5.1 数据库安全",
+        "page": 385,
+        "endPage": 385,
+        "pdfPage": 390,
+        "pdfEndPage": 390,
+        "note": "教材说明数据库安全要求；未找到能直接认定本题 D 为错误项的原文，请结合题库争议备注核对。"
+      }
+    ],
+    "13": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.2 信息安全保障技术框架",
+        "page": 28,
+        "endPage": 28,
+        "pdfPage": 33,
+        "pdfEndPage": 33
+      }
+    ],
+    "14": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.2 自主访问控制模型",
+        "page": 307,
+        "endPage": 308,
+        "pdfPage": 312,
+        "pdfEndPage": 313
+      }
+    ],
+    "15": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.1.2 业务连续性计划",
+        "page": 143,
+        "endPage": 143,
+        "pdfPage": 148,
+        "pdfEndPage": 148
+      }
+    ],
+    "16": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 360,
+        "endPage": 361,
+        "pdfPage": 365,
+        "pdfEndPage": 366
+      }
+    ],
+    "17": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.1 协议结构及安全问题",
+        "page": 334,
+        "endPage": 334,
+        "pdfPage": 339,
+        "pdfEndPage": 339,
+        "note": "本教材介绍 TCP/IP 结构，未定位到动态地址池分配的直接说明。"
+      }
+    ],
+    "18": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.5 Kerberos 体系",
+        "page": 301,
+        "endPage": 303,
+        "pdfPage": 306,
+        "pdfEndPage": 308
+      }
+    ],
+    "19": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.5 公钥基础设施",
+        "page": 286,
+        "endPage": 286,
+        "pdfPage": 291,
+        "pdfEndPage": 291
+      }
+    ],
+    "20": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 32,
+        "endPage": 33,
+        "pdfPage": 37,
+        "pdfEndPage": 38
+      }
+    ],
+    "21": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 57,
+        "endPage": 57,
+        "pdfPage": 62,
+        "pdfEndPage": 62
+      }
+    ],
+    "22": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 376,
+        "endPage": 376,
+        "pdfPage": 381,
+        "pdfEndPage": 381
+      }
+    ],
+    "23": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.2 恶意代码检测与分析",
+        "page": 370,
+        "endPage": 371,
+        "pdfPage": 375,
+        "pdfEndPage": 376,
+        "note": "教材覆盖恶意代码隐藏、静态与动态分析，未直接列出本题的随机进程名称技术。"
+      }
+    ],
+    "24": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 57,
+        "endPage": 57,
+        "pdfPage": 62,
+        "pdfEndPage": 62
+      }
+    ],
+    "25": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 178,
+        "endPage": 178,
+        "pdfPage": 183,
+        "pdfEndPage": 183,
+        "note": "教材 P178 写明 CMM 思想来源于项目管理和质量管理，与题库把 A 判为错误的表述存在出入；此处用于核对，不作为答案 A 的背书。"
+      }
+    ],
+    "26": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.3 网络安全等级保护标准族",
+        "page": 75,
+        "endPage": 75,
+        "pdfPage": 80,
+        "pdfEndPage": 80
+      }
+    ],
+    "27": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.1 访问控制模型的基本概念",
+        "page": 305,
+        "endPage": 305,
+        "pdfPage": 310,
+        "pdfEndPage": 310
+      }
+    ],
+    "28": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.2 安全解决方案",
+        "page": 338,
+        "endPage": 338,
+        "pdfPage": 343,
+        "pdfEndPage": 343
+      }
+    ],
+    "29": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.1 基本概念",
+        "page": 82,
+        "endPage": 82,
+        "pdfPage": 87,
+        "pdfEndPage": 87
+      }
+    ],
+    "30": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.5 公钥基础设施",
+        "page": 286,
+        "endPage": 287,
+        "pdfPage": 291,
+        "pdfEndPage": 292
+      }
+    ],
+    "31": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.1 协议结构及安全问题",
+        "page": 334,
+        "endPage": 334,
+        "pdfPage": 339,
+        "pdfEndPage": 339,
+        "note": "本教材介绍 TCP/IP 结构，未定位到私有 IPv4 地址范围的直接说明。"
+      }
+    ],
+    "32": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.2 拒绝服务攻击",
+        "page": 350,
+        "endPage": 350,
+        "pdfPage": 355,
+        "pdfEndPage": 355
+      }
+    ],
+    "33": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.3 计算机取证与保全",
+        "page": 151,
+        "endPage": 151,
+        "pdfPage": 156,
+        "pdfEndPage": 156
+      }
+    ],
+    "34": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 89,
+        "endPage": 89,
+        "pdfPage": 94,
+        "pdfEndPage": 94
+      }
+    ],
+    "35": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 104,
+        "endPage": 105,
+        "pdfPage": 109,
+        "pdfEndPage": 110,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "36": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 112,
+        "endPage": 113,
+        "pdfPage": 117,
+        "pdfEndPage": 118,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "37": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.4 信息安全应急响应管理过程",
+        "page": 152,
+        "endPage": 154,
+        "pdfPage": 157,
+        "pdfEndPage": 159
+      }
+    ],
+    "38": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 127,
+        "endPage": 128,
+        "pdfPage": 132,
+        "pdfEndPage": 133
+      }
+    ],
+    "39": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.1 访问控制模型的基本概念",
+        "page": 305,
+        "endPage": 305,
+        "pdfPage": 310,
+        "pdfEndPage": 310
+      }
+    ],
+    "40": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.3 网络安全等级保护标准族",
+        "page": 78,
+        "endPage": 78,
+        "pdfPage": 83,
+        "pdfEndPage": 83,
+        "note": "教材介绍等级保护与测评，未逐项收录本题所引历史通知的机构和能力验证措辞。"
+      }
+    ],
+    "41": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.2 网络安全应急响应预案",
+        "page": 150,
+        "endPage": 150,
+        "pdfPage": 155,
+        "pdfEndPage": 155
+      }
+    ],
+    "42": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.2 自主访问控制模型",
+        "page": 307,
+        "endPage": 308,
+        "pdfPage": 312,
+        "pdfEndPage": 313
+      }
+    ],
+    "43": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.1 风险管理基本概念",
+        "page": 84,
+        "endPage": 85,
+        "pdfPage": 89,
+        "pdfEndPage": 90
+      }
+    ],
+    "44": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362
+      }
+    ],
+    "45": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 360,
+        "endPage": 360,
+        "pdfPage": 365,
+        "pdfEndPage": 365
+      }
+    ],
+    "46": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 377,
+        "endPage": 378,
+        "pdfPage": 382,
+        "pdfEndPage": 383
+      }
+    ],
+    "47": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 254,
+        "endPage": 254,
+        "pdfPage": 259,
+        "pdfEndPage": 259
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 256,
+        "endPage": 256,
+        "pdfPage": 261,
+        "pdfEndPage": 261
+      }
+    ],
+    "48": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 248,
+        "endPage": 249,
+        "pdfPage": 253,
+        "pdfEndPage": 254
+      }
+    ],
+    "49": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.4 信息安全应急响应管理过程",
+        "page": 152,
+        "endPage": 152,
+        "pdfPage": 157,
+        "pdfEndPage": 157
+      }
+    ],
+    "50": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.2 灾难恢复相关技术",
+        "page": 159,
+        "endPage": 160,
+        "pdfPage": 164,
+        "pdfEndPage": 165
+      }
+    ],
+    "51": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.1 基于时间的安全模型",
+        "page": 27,
+        "endPage": 27,
+        "pdfPage": 32,
+        "pdfEndPage": 32
+      }
+    ],
+    "52": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 109,
+        "endPage": 109,
+        "pdfPage": 114,
+        "pdfEndPage": 114
+      }
+    ],
+    "53": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.2 信息安全管理体系控制措施结构",
+        "page": 102,
+        "endPage": 103,
+        "pdfPage": 107,
+        "pdfEndPage": 108
+      }
+    ],
+    "54": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 57,
+        "endPage": 57,
+        "pdfPage": 62,
+        "pdfEndPage": 62,
+        "note": "本页介绍保密法及涉密信息系统；未完整列出本题涉及的定密权限和不明确事项处理程序。"
+      }
+    ],
+    "55": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366
+      }
+    ],
+    "56": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.2.3 OSI 七层模型安全体系",
+        "page": 333,
+        "endPage": 333,
+        "pdfPage": 338,
+        "pdfEndPage": 338
+      }
+    ],
+    "57": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 112,
+        "endPage": 113,
+        "pdfPage": 117,
+        "pdfEndPage": 118,
+        "note": "教材涵盖密钥生命周期与 Kerberos 会话密钥，但未直接给出本题关于重复使用会话密钥的判断句。"
+      }
+    ],
+    "58": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.1.2 业务连续性计划",
+        "page": 143,
+        "endPage": 143,
+        "pdfPage": 148,
+        "pdfEndPage": 148
+      }
+    ],
+    "59": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.1 欺骗攻击",
+        "page": 347,
+        "endPage": 347,
+        "pdfPage": 352,
+        "pdfEndPage": 352
+      }
+    ],
+    "60": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 175,
+        "endPage": 175,
+        "pdfPage": 180,
+        "pdfEndPage": 180
+      }
+    ],
+    "61": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.2.1 信息收集",
+        "page": 363,
+        "endPage": 363,
+        "pdfPage": 368,
+        "pdfEndPage": 368,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "62": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.2.2 网络安全等级保护相关政策",
+        "page": 61,
+        "endPage": 61,
+        "pdfPage": 66,
+        "pdfEndPage": 66,
+        "note": "教材的历史政策说明可用于理解自主保护级；题干关于备案的表述仍应结合核对备注审慎理解。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.3 网络安全等级保护标准族",
+        "page": 77,
+        "endPage": 77,
+        "pdfPage": 82,
+        "pdfEndPage": 82
+      }
+    ],
+    "63": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.5.1 数据库安全",
+        "page": 385,
+        "endPage": 385,
+        "pdfPage": 390,
+        "pdfEndPage": 390,
+        "note": "本页介绍数据库安全要求，未直接解释授权粒度与灵活性的关系。"
+      }
+    ],
+    "64": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.1 协议结构及安全问题",
+        "page": 334,
+        "endPage": 334,
+        "pdfPage": 339,
+        "pdfEndPage": 339
+      }
+    ],
+    "65": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 16,
+        "endPage": 16,
+        "pdfPage": 21,
+        "pdfEndPage": 21
+      }
+    ],
+    "66": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 89,
+        "endPage": 90,
+        "pdfPage": 94,
+        "pdfEndPage": 95
+      }
+    ],
+    "67": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.2 软件危机与安全问题",
+        "page": 394,
+        "endPage": 396,
+        "pdfPage": 399,
+        "pdfEndPage": 401
+      }
+    ],
+    "68": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.4 基于角色的访问控制模型",
+        "page": 312,
+        "endPage": 314,
+        "pdfPage": 317,
+        "pdfEndPage": 319
+      }
+    ],
+    "69": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.3 软件安全开发生命周期模型",
+        "page": 400,
+        "endPage": 401,
+        "pdfPage": 405,
+        "pdfEndPage": 406
+      }
+    ],
+    "70": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 358,
+        "pdfPage": 362,
+        "pdfEndPage": 363
+      }
+    ],
+    "71": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.2 检测与审计",
+        "page": 353,
+        "endPage": 354,
+        "pdfPage": 358,
+        "pdfEndPage": 359,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "72": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 285,
+        "endPage": 285,
+        "pdfPage": 290,
+        "pdfEndPage": 290
+      }
+    ],
+    "73": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 35,
+        "endPage": 36,
+        "pdfPage": 40,
+        "pdfEndPage": 41
+      }
+    ],
+    "74": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 178,
+        "endPage": 178,
+        "pdfPage": 183,
+        "pdfEndPage": 183
+      }
+    ],
+    "75": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 148,
+        "endPage": 148,
+        "pdfPage": 153,
+        "pdfEndPage": 153
+      }
+    ],
+    "76": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 285,
+        "endPage": 285,
+        "pdfPage": 290,
+        "pdfEndPage": 290
+      }
+    ],
+    "77": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.2 信息安全保障技术框架",
+        "page": 29,
+        "endPage": 30,
+        "pdfPage": 34,
+        "pdfEndPage": 35
+      }
+    ],
+    "78": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.2 拒绝服务攻击",
+        "page": 349,
+        "endPage": 350,
+        "pdfPage": 354,
+        "pdfEndPage": 355,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "79": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.1 恶意代码预防",
+        "page": 369,
+        "endPage": 369,
+        "pdfPage": 374,
+        "pdfEndPage": 374
+      }
+    ],
+    "80": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.1 威胁建模",
+        "page": 404,
+        "endPage": 405,
+        "pdfPage": 409,
+        "pdfEndPage": 410
+      }
+    ],
+    "81": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.1 恶意代码预防",
+        "page": 369,
+        "endPage": 369,
+        "pdfPage": 374,
+        "pdfEndPage": 374
+      }
+    ],
+    "82": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.3 信息安全视角",
+        "page": 12,
+        "endPage": 13,
+        "pdfPage": 17,
+        "pdfEndPage": 18
+      }
+    ],
+    "83": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.2 网络安全应急响应预案",
+        "page": 150,
+        "endPage": 151,
+        "pdfPage": 155,
+        "pdfEndPage": 156
+      }
+    ],
+    "84": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 409,
+        "endPage": 409,
+        "pdfPage": 414,
+        "pdfEndPage": 414
+      }
+    ],
+    "85": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 409,
+        "endPage": 409,
+        "pdfPage": 414,
+        "pdfEndPage": 414
+      }
+    ],
+    "86": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.4 企业安全架构",
+        "page": 42,
+        "endPage": 42,
+        "pdfPage": 47,
+        "pdfEndPage": 47
+      }
+    ],
+    "87": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 358,
+        "pdfPage": 362,
+        "pdfEndPage": 363
+      }
+    ],
+    "88": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.2.2 缓冲区溢出攻击",
+        "page": 367,
+        "endPage": 367,
+        "pdfPage": 372,
+        "pdfEndPage": 372,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "89": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.3 软件安全开发生命周期模型",
+        "page": 397,
+        "endPage": 397,
+        "pdfPage": 402,
+        "pdfEndPage": 402
+      }
+    ],
+    "90": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.1.2 业务连续性计划",
+        "page": 143,
+        "endPage": 143,
+        "pdfPage": 148,
+        "pdfEndPage": 148
+      }
+    ],
+    "91": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.3 网络安全法",
+        "page": 50,
+        "endPage": 51,
+        "pdfPage": 55,
+        "pdfEndPage": 56,
+        "note": "本页是教材引用的历史关键信息基础设施范围；不据此认定卫生行业在现行规则下被排除。"
+      }
+    ],
+    "92": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.1 基本概念",
+        "page": 82,
+        "endPage": 82,
+        "pdfPage": 87,
+        "pdfEndPage": 87
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.3 信息安全管理体系建设过程",
+        "page": 96,
+        "endPage": 96,
+        "pdfPage": 101,
+        "pdfEndPage": 101
+      }
+    ],
+    "93": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.1 威胁建模",
+        "page": 403,
+        "endPage": 405,
+        "pdfPage": 408,
+        "pdfEndPage": 410
+      }
+    ],
+    "94": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.2 检测与审计",
+        "page": 353,
+        "endPage": 354,
+        "pdfPage": 358,
+        "pdfEndPage": 359
+      }
+    ],
+    "95": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.3 强制访问控制模型",
+        "page": 309,
+        "endPage": 309,
+        "pdfPage": 314,
+        "pdfEndPage": 314
+      }
+    ],
+    "96": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 124,
+        "endPage": 124,
+        "pdfPage": 129,
+        "pdfEndPage": 129
+      }
+    ],
+    "97": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.1.1 环境安全",
+        "page": 321,
+        "endPage": 322,
+        "pdfPage": 326,
+        "pdfEndPage": 327
+      }
+    ],
+    "98": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.2 PDCA 过程",
+        "page": 94,
+        "endPage": 96,
+        "pdfPage": 99,
+        "pdfEndPage": 101
+      }
+    ],
+    "99": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.2 灾难恢复相关技术",
+        "page": 159,
+        "endPage": 160,
+        "pdfPage": 164,
+        "pdfEndPage": 165
+      }
+    ],
+    "100": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.4 风险评估文档",
+        "page": 260,
+        "endPage": 260,
+        "pdfPage": 265,
+        "pdfEndPage": 265
+      }
+    ],
+    "101": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.3 网络安全等级保护标准族",
+        "page": 75,
+        "endPage": 76,
+        "pdfPage": 80,
+        "pdfEndPage": 81
+      }
+    ],
+    "102": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.1 基本概念",
+        "page": 80,
+        "endPage": 81,
+        "pdfPage": 85,
+        "pdfEndPage": 86
+      }
+    ],
+    "103": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.1 信息安全概念",
+        "page": 3,
+        "endPage": 4,
+        "pdfPage": 8,
+        "pdfEndPage": 9
+      }
+    ],
+    "104": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 177,
+        "endPage": 177,
+        "pdfPage": 182,
+        "pdfEndPage": 182
+      }
+    ],
+    "105": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.1 基本概念",
+        "page": 82,
+        "endPage": 82,
+        "pdfPage": 87,
+        "pdfEndPage": 87,
+        "note": "教材概述 BS7799 与 ISO/IEC27001 的发展关系，但未逐项给出题干所列英国标准历史日期及部门。"
+      }
+    ],
+    "106": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.1 恶意代码预防",
+        "page": 369,
+        "endPage": 369,
+        "pdfPage": 374,
+        "pdfEndPage": 374,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "107": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.2 信息安全管理体系控制措施结构",
+        "page": 102,
+        "endPage": 103,
+        "pdfPage": 107,
+        "pdfEndPage": 108
+      }
+    ],
+    "108": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.1 基于时间的安全模型",
+        "page": 25,
+        "endPage": 26,
+        "pdfPage": 30,
+        "pdfEndPage": 31
+      }
+    ],
+    "109": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.1 系统安全工程基础",
+        "page": 174,
+        "endPage": 175,
+        "pdfPage": 179,
+        "pdfEndPage": 180
+      }
+    ],
+    "110": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.3.1 安全编码原则",
+        "page": 413,
+        "endPage": 413,
+        "pdfPage": 418,
+        "pdfEndPage": 418
+      }
+    ],
+    "111": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.1 灾难备份与恢复基础",
+        "page": 155,
+        "endPage": 156,
+        "pdfPage": 160,
+        "pdfEndPage": 161
+      }
+    ],
+    "112": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.2 安全解决方案",
+        "page": 338,
+        "endPage": 338,
+        "pdfPage": 343,
+        "pdfEndPage": 343,
+        "note": "教材介绍 IPsec 和 VPN；具体地址聚合、路由与网关部署要求未逐项展开。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.3 接入管理",
+        "page": 354,
+        "endPage": 354,
+        "pdfPage": 359,
+        "pdfEndPage": 359
+      }
+    ],
+    "113": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.2 检测与审计",
+        "page": 352,
+        "endPage": 353,
+        "pdfPage": 357,
+        "pdfEndPage": 358
+      }
+    ],
+    "114": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.2 网络安全应急响应预案",
+        "page": 150,
+        "endPage": 151,
+        "pdfPage": 155,
+        "pdfEndPage": 156,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "115": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.1 信息安全概念",
+        "page": 3,
+        "endPage": 4,
+        "pdfPage": 8,
+        "pdfEndPage": 9
+      }
+    ],
+    "116": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.2 检测与审计",
+        "page": 352,
+        "endPage": 352,
+        "pdfPage": 357,
+        "pdfEndPage": 357
+      }
+    ],
+    "117": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.2 软件安全测试",
+        "page": 422,
+        "endPage": 423,
+        "pdfPage": 427,
+        "pdfEndPage": 428
+      }
+    ],
+    "118": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366
+      }
+    ],
+    "119": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.2 信息安全管理的作用及对组织的价值",
+        "page": 82,
+        "endPage": 83,
+        "pdfPage": 87,
+        "pdfEndPage": 88
+      }
+    ],
+    "120": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 257,
+        "endPage": 259,
+        "pdfPage": 262,
+        "pdfEndPage": 264
+      }
+    ],
+    "121": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 35,
+        "endPage": 35,
+        "pdfPage": 40,
+        "pdfEndPage": 40
+      }
+    ],
+    "122": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.3 系统安全工程能力成熟度模型",
+        "page": 182,
+        "endPage": 182,
+        "pdfPage": 187,
+        "pdfEndPage": 187,
+        "note": "教材 P182 的能力维示意涵盖 0—5 级，P203 开始介绍各能力级别，引用用于核对模型与分级口径。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.5 SSE-CMM 的安全工程能力",
+        "page": 203,
+        "endPage": 203,
+        "pdfPage": 208,
+        "pdfEndPage": 208
+      }
+    ],
+    "123": [
+      {
+        "kind": "related",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.1 软件生命周期模型",
+        "page": 389,
+        "endPage": 389,
+        "pdfPage": 394,
+        "pdfEndPage": 394,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "124": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.4 信息安全应急响应管理过程",
+        "page": 153,
+        "endPage": 153,
+        "pdfPage": 158,
+        "pdfEndPage": 158
+      }
+    ],
+    "125": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.2 软件安全测试",
+        "page": 421,
+        "endPage": 421,
+        "pdfPage": 426,
+        "pdfEndPage": 426
+      }
+    ],
+    "126": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 146,
+        "endPage": 146,
+        "pdfPage": 151,
+        "pdfEndPage": 151
+      }
+    ],
+    "127": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.1 欺骗攻击",
+        "page": 347,
+        "endPage": 348,
+        "pdfPage": 352,
+        "pdfEndPage": 353
+      }
+    ],
+    "128": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.2 安全评估标准",
+        "page": 232,
+        "endPage": 234,
+        "pdfPage": 237,
+        "pdfEndPage": 239
+      }
+    ],
+    "129": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.3 软件安全开发生命周期模型",
+        "page": 397,
+        "endPage": 397,
+        "pdfPage": 402,
+        "pdfEndPage": 402
+      }
+    ],
+    "130": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.1.2 业务连续性计划",
+        "page": 141,
+        "endPage": 142,
+        "pdfPage": 146,
+        "pdfEndPage": 147
+      }
+    ],
+    "131": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 57,
+        "endPage": 57,
+        "pdfPage": 62,
+        "pdfEndPage": 62,
+        "note": "本页介绍保密法的历史背景；未定位到题干国家科学技术秘密三类具体定级措辞。"
+      }
+    ],
+    "132": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.1 灾难备份与恢复基础",
+        "page": 156,
+        "endPage": 156,
+        "pdfPage": 161,
+        "pdfEndPage": 161
+      }
+    ],
+    "133": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.1 威胁建模",
+        "page": 405,
+        "endPage": 405,
+        "pdfPage": 410,
+        "pdfEndPage": 410
+      }
+    ],
+    "134": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.2 培训及教育",
+        "page": 224,
+        "endPage": 224,
+        "pdfPage": 229,
+        "pdfEndPage": 229
+      }
+    ],
+    "135": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.4.2 无线局域网安全",
+        "page": 341,
+        "endPage": 343,
+        "pdfPage": 346,
+        "pdfEndPage": 348
+      }
+    ],
+    "136": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.3 软件安全开发生命周期模型",
+        "page": 403,
+        "endPage": 403,
+        "pdfPage": 408,
+        "pdfEndPage": 408
+      }
+    ],
+    "137": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 89,
+        "endPage": 89,
+        "pdfPage": 94,
+        "pdfEndPage": 94
+      }
+    ],
+    "138": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 55,
+        "endPage": 55,
+        "pdfPage": 60,
+        "pdfEndPage": 60
+      }
+    ],
+    "139": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 409,
+        "endPage": 409,
+        "pdfPage": 414,
+        "pdfEndPage": 414
+      }
+    ],
+    "140": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.3 系统安全工程能力成熟度模型",
+        "page": 179,
+        "endPage": 179,
+        "pdfPage": 184,
+        "pdfEndPage": 184
+      }
+    ],
+    "141": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.3 系统安全工程能力成熟度模型",
+        "page": 181,
+        "endPage": 182,
+        "pdfPage": 186,
+        "pdfEndPage": 187
+      }
+    ],
+    "142": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.5 Kerberos 体系",
+        "page": 300,
+        "endPage": 300,
+        "pdfPage": 305,
+        "pdfEndPage": 305
+      }
+    ],
+    "143": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.3 软件安全开发生命周期模型",
+        "page": 403,
+        "endPage": 403,
+        "pdfPage": 408,
+        "pdfEndPage": 408
+      }
+    ],
+    "144": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.2 软件危机与安全问题",
+        "page": 395,
+        "endPage": 395,
+        "pdfPage": 400,
+        "pdfEndPage": 400
+      }
+    ],
+    "145": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.2 PDCA 过程",
+        "page": 94,
+        "endPage": 94,
+        "pdfPage": 99,
+        "pdfEndPage": 99
+      }
+    ],
+    "146": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.1 信息安全概念",
+        "page": 3,
+        "endPage": 3,
+        "pdfPage": 8,
+        "pdfEndPage": 8
+      }
+    ],
+    "147": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 146,
+        "endPage": 147,
+        "pdfPage": 151,
+        "pdfEndPage": 152
+      }
+    ],
+    "148": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.2 安全解决方案",
+        "page": 337,
+        "endPage": 338,
+        "pdfPage": 342,
+        "pdfEndPage": 343
+      }
+    ],
+    "149": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.1 恶意代码预防",
+        "page": 368,
+        "endPage": 369,
+        "pdfPage": 373,
+        "pdfEndPage": 374,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "150": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 375,
+        "endPage": 376,
+        "pdfPage": 380,
+        "pdfEndPage": 381
+      }
+    ],
+    "151": [
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.2 安全评估标准",
+        "page": 228,
+        "endPage": 228,
+        "pdfPage": 233,
+        "pdfEndPage": 233,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.2 检测与审计",
+        "page": 353,
+        "endPage": 354,
+        "pdfPage": 358,
+        "pdfEndPage": 359
+      }
+    ],
+    "152": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.3.1 审计原则与方法",
+        "page": 260,
+        "endPage": 260,
+        "pdfPage": 265,
+        "pdfEndPage": 265
+      }
+    ],
+    "153": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.2.1 OSI 模型",
+        "page": 329,
+        "endPage": 329,
+        "pdfPage": 334,
+        "pdfEndPage": 334
+      }
+    ],
+    "154": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.1 身份鉴别的概念",
+        "page": 293,
+        "endPage": 293,
+        "pdfPage": 298,
+        "pdfEndPage": 298
+      }
+    ],
+    "155": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.6 认证、授权和计费",
+        "page": 304,
+        "endPage": 304,
+        "pdfPage": 309,
+        "pdfEndPage": 309
+      }
+    ],
+    "156": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 221,
+        "endPage": 221,
+        "pdfPage": 226,
+        "pdfEndPage": 226
+      }
+    ],
+    "157": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.2 安全评估标准",
+        "page": 232,
+        "endPage": 232,
+        "pdfPage": 237,
+        "pdfEndPage": 237
+      }
+    ],
+    "158": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.1 恶意代码预防",
+        "page": 369,
+        "endPage": 369,
+        "pdfPage": 374,
+        "pdfEndPage": 374
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366
+      }
+    ],
+    "159": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.1 信息安全管理体系控制类型",
+        "page": 101,
+        "endPage": 101,
+        "pdfPage": 106,
+        "pdfEndPage": 106
+      }
+    ],
+    "160": [
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 249,
+        "endPage": 249,
+        "pdfPage": 254,
+        "pdfEndPage": 254,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 255,
+        "endPage": 255,
+        "pdfPage": 260,
+        "pdfEndPage": 260
+      }
+    ],
+    "161": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.4 基于角色的访问控制模型",
+        "page": 314,
+        "endPage": 315,
+        "pdfPage": 319,
+        "pdfEndPage": 320
+      }
+    ],
+    "162": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.1 系统安全工程基础",
+        "page": 174,
+        "endPage": 175,
+        "pdfPage": 179,
+        "pdfEndPage": 180
+      }
+    ],
+    "163": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.2.1 信息收集",
+        "page": 364,
+        "endPage": 365,
+        "pdfPage": 369,
+        "pdfEndPage": 370
+      }
+    ],
+    "164": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 379,
+        "endPage": 379,
+        "pdfPage": 384,
+        "pdfEndPage": 384
+      }
+    ],
+    "165": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 121,
+        "endPage": 121,
+        "pdfPage": 126,
+        "pdfEndPage": 126
+      }
+    ],
+    "166": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.2.1 国家网络空间安全战略",
+        "page": 59,
+        "endPage": 60,
+        "pdfPage": 64,
+        "pdfEndPage": 65
+      }
+    ],
+    "167": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.2 拒绝服务攻击",
+        "page": 349,
+        "endPage": 349,
+        "pdfPage": 354,
+        "pdfEndPage": 354
+      }
+    ],
+    "168": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.3 接入管理",
+        "page": 354,
+        "endPage": 355,
+        "pdfPage": 359,
+        "pdfEndPage": 360
+      }
+    ],
+    "169": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 221,
+        "endPage": 222,
+        "pdfPage": 226,
+        "pdfEndPage": 227
+      }
+    ],
+    "170": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.3 系统安全工程能力成熟度模型",
+        "page": 179,
+        "endPage": 179,
+        "pdfPage": 184,
+        "pdfEndPage": 184,
+        "note": "教材提到 SSAM 及 SSE-CMM，但未展开本题规划、准备、现场、报告四阶段的细节。"
+      }
+    ],
+    "171": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 106,
+        "endPage": 106,
+        "pdfPage": 111,
+        "pdfEndPage": 111
+      }
+    ],
+    "172": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 128,
+        "endPage": 128,
+        "pdfPage": 133,
+        "pdfEndPage": 133
+      }
+    ],
+    "173": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.1.1 环境安全",
+        "page": 319,
+        "endPage": 320,
+        "pdfPage": 324,
+        "pdfEndPage": 325
+      }
+    ],
+    "174": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.1 基本概念",
+        "page": 82,
+        "endPage": 82,
+        "pdfPage": 87,
+        "pdfEndPage": 87,
+        "note": "教材介绍 BS7799 与信息安全管理体系的关系，未完整记载本题的 1998 年版标准措辞。"
+      }
+    ],
+    "175": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 222,
+        "endPage": 223,
+        "pdfPage": 227,
+        "pdfEndPage": 228
+      }
+    ],
+    "176": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.2 安全评估标准",
+        "page": 228,
+        "endPage": 228,
+        "pdfPage": 233,
+        "pdfEndPage": 233
+      }
+    ],
+    "177": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.4 灾难恢复管理过程",
+        "page": 170,
+        "endPage": 171,
+        "pdfPage": 175,
+        "pdfEndPage": 176,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "178": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.5.3 软件安全部署",
+        "page": 426,
+        "endPage": 427,
+        "pdfPage": 431,
+        "pdfEndPage": 432
+      }
+    ],
+    "179": [
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.1 安全评估概念",
+        "page": 226,
+        "endPage": 228,
+        "pdfPage": 231,
+        "pdfEndPage": 233,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "180": [
+      {
+        "kind": "related",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 16,
+        "endPage": 16,
+        "pdfPage": 21,
+        "pdfEndPage": 21,
+        "note": "教材提及我国信息安全保障历史政策，未完整收录本题所述战略的六部分结构。"
+      }
+    ],
+    "181": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362
+      }
+    ],
+    "182": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 109,
+        "endPage": 109,
+        "pdfPage": 114,
+        "pdfEndPage": 114
+      }
+    ],
+    "183": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.2 恶意代码检测与分析",
+        "page": 370,
+        "endPage": 371,
+        "pdfPage": 375,
+        "pdfEndPage": 376
+      }
+    ],
+    "184": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.5.1 数据库安全",
+        "page": 385,
+        "endPage": 385,
+        "pdfPage": 390,
+        "pdfEndPage": 390
+      }
+    ],
+    "185": [
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.1 安全评估概念",
+        "page": 226,
+        "endPage": 228,
+        "pdfPage": 231,
+        "pdfEndPage": 233,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "186": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.1 风险管理基本概念",
+        "page": 86,
+        "endPage": 86,
+        "pdfPage": 91,
+        "pdfEndPage": 91
+      }
+    ],
+    "187": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 221,
+        "endPage": 221,
+        "pdfPage": 226,
+        "pdfEndPage": 226
+      }
+    ],
+    "188": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.3 网络安全等级保护标准族",
+        "page": 75,
+        "endPage": 76,
+        "pdfPage": 80,
+        "pdfEndPage": 81
+      }
+    ],
+    "189": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.4 风险评估文档",
+        "page": 260,
+        "endPage": 260,
+        "pdfPage": 265,
+        "pdfEndPage": 265
+      }
+    ],
+    "190": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.1.1 环境安全",
+        "page": 323,
+        "endPage": 324,
+        "pdfPage": 328,
+        "pdfEndPage": 329
+      }
+    ],
+    "191": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 112,
+        "endPage": 113,
+        "pdfPage": 117,
+        "pdfEndPage": 118
+      }
+    ],
+    "192": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 146,
+        "endPage": 147,
+        "pdfPage": 151,
+        "pdfEndPage": 152,
+        "note": "教材介绍一般安全事件分级，未给出本题校园网场景的完整定级条件。"
+      }
+    ],
+    "193": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.3 非对称密码算法",
+        "page": 278,
+        "endPage": 278,
+        "pdfPage": 283,
+        "pdfEndPage": 283
+      }
+    ],
+    "194": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 90,
+        "endPage": 90,
+        "pdfPage": 95,
+        "pdfEndPage": 95
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.2.2 安全运营管理",
+        "page": 209,
+        "endPage": 209,
+        "pdfPage": 214,
+        "pdfEndPage": 214
+      }
+    ],
+    "195": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 90,
+        "endPage": 90,
+        "pdfPage": 95,
+        "pdfEndPage": 95
+      }
+    ],
+    "196": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.1 风险评估相关要素",
+        "page": 244,
+        "endPage": 245,
+        "pdfPage": 249,
+        "pdfEndPage": 250
+      }
+    ],
+    "197": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.2 软件危机与安全问题",
+        "page": 394,
+        "endPage": 396,
+        "pdfPage": 399,
+        "pdfEndPage": 401
+      }
+    ],
+    "198": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.2 软件危机与安全问题",
+        "page": 392,
+        "endPage": 393,
+        "pdfPage": 397,
+        "pdfEndPage": 398
+      }
+    ],
+    "199": [
+      {
+        "kind": "related",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 38,
+        "endPage": 38,
+        "pdfPage": 43,
+        "pdfEndPage": 43,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "200": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.1 灾难备份与恢复基础",
+        "page": 156,
+        "endPage": 156,
+        "pdfPage": 161,
+        "pdfEndPage": 161
+      }
+    ],
+    "201": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.4 信息安全应急响应管理过程",
+        "page": 152,
+        "endPage": 154,
+        "pdfPage": 157,
+        "pdfEndPage": 159
+      }
+    ],
+    "202": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 253,
+        "endPage": 254,
+        "pdfPage": 258,
+        "pdfEndPage": 259
+      }
+    ],
+    "203": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.1 威胁建模",
+        "page": 404,
+        "endPage": 404,
+        "pdfPage": 409,
+        "pdfEndPage": 409
+      }
+    ],
+    "204": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.2 信息安全保障技术框架",
+        "page": 30,
+        "endPage": 30,
+        "pdfPage": 35,
+        "pdfEndPage": 35
+      }
+    ],
+    "205": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 89,
+        "endPage": 90,
+        "pdfPage": 94,
+        "pdfEndPage": 95
+      }
+    ],
+    "206": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 31,
+        "endPage": 32,
+        "pdfPage": 36,
+        "pdfEndPage": 37
+      }
+    ],
+    "207": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 175,
+        "endPage": 175,
+        "pdfPage": 180,
+        "pdfEndPage": 180
+      }
+    ],
+    "208": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.3.2 审计技术控制",
+        "page": 265,
+        "endPage": 265,
+        "pdfPage": 270,
+        "pdfEndPage": 270
+      }
+    ],
+    "209": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 103,
+        "endPage": 103,
+        "pdfPage": 108,
+        "pdfEndPage": 108
+      }
+    ],
+    "210": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.3 信息安全管理体系建设过程",
+        "page": 98,
+        "endPage": 98,
+        "pdfPage": 103,
+        "pdfEndPage": 103
+      }
+    ],
+    "211": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.1 欺骗攻击",
+        "page": 348,
+        "endPage": 348,
+        "pdfPage": 353,
+        "pdfEndPage": 353,
+        "note": "教材介绍 ARP 欺骗与网络边界相关问题，未直接展开本题 VLAN 划分对广播域的作用。"
+      }
+    ],
+    "212": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 247,
+        "endPage": 248,
+        "pdfPage": 252,
+        "pdfEndPage": 253
+      }
+    ],
+    "213": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.2.2 网络安全等级保护相关政策",
+        "page": 60,
+        "endPage": 61,
+        "pdfPage": 65,
+        "pdfEndPage": 66
+      }
+    ],
+    "214": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362
+      }
+    ],
+    "215": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.1 协议结构及安全问题",
+        "page": 334,
+        "endPage": 334,
+        "pdfPage": 339,
+        "pdfEndPage": 339
+      }
+    ],
+    "216": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.2 对称密码算法",
+        "page": 273,
+        "endPage": 273,
+        "pdfPage": 278,
+        "pdfEndPage": 278
+      }
+    ],
+    "217": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 176,
+        "endPage": 176,
+        "pdfPage": 181,
+        "pdfEndPage": 181
+      }
+    ],
+    "218": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 145,
+        "endPage": 145,
+        "pdfPage": 150,
+        "pdfEndPage": 150
+      }
+    ],
+    "219": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.2 PDCA 过程",
+        "page": 94,
+        "endPage": 94,
+        "pdfPage": 99,
+        "pdfEndPage": 99
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.3 信息安全管理体系建设过程",
+        "page": 96,
+        "endPage": 96,
+        "pdfPage": 101,
+        "pdfEndPage": 101
+      }
+    ],
+    "220": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 38,
+        "endPage": 38,
+        "pdfPage": 43,
+        "pdfEndPage": 43
+      }
+    ],
+    "221": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.1 密码学基本概念",
+        "page": 271,
+        "endPage": 271,
+        "pdfPage": 276,
+        "pdfEndPage": 276
+      }
+    ],
+    "222": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 249,
+        "endPage": 250,
+        "pdfPage": 254,
+        "pdfEndPage": 255
+      }
+    ],
+    "223": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.1 信息安全标准基础",
+        "page": 65,
+        "endPage": 67,
+        "pdfPage": 70,
+        "pdfEndPage": 72
+      }
+    ],
+    "224": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.3.2 职业道德准则",
+        "page": 63,
+        "endPage": 64,
+        "pdfPage": 68,
+        "pdfEndPage": 69
+      }
+    ],
+    "225": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 57,
+        "endPage": 57,
+        "pdfPage": 62,
+        "pdfEndPage": 62,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "226": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.2 信息安全保障技术框架",
+        "page": 29,
+        "endPage": 30,
+        "pdfPage": 34,
+        "pdfEndPage": 35
+      }
+    ],
+    "227": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.1 访问控制模型的基本概念",
+        "page": 305,
+        "endPage": 305,
+        "pdfPage": 310,
+        "pdfEndPage": 310
+      }
+    ],
+    "228": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 113,
+        "endPage": 114,
+        "pdfPage": 118,
+        "pdfEndPage": 119
+      }
+    ],
+    "229": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.2.2 安全运营管理",
+        "page": 209,
+        "endPage": 210,
+        "pdfPage": 214,
+        "pdfEndPage": 215
+      }
+    ],
+    "230": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 16,
+        "endPage": 16,
+        "pdfPage": 21,
+        "pdfEndPage": 21
+      }
+    ],
+    "231": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.2 PDCA 过程",
+        "page": 94,
+        "endPage": 95,
+        "pdfPage": 99,
+        "pdfEndPage": 100
+      }
+    ],
+    "232": [
+      {
+        "kind": "related",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.2 软件安全测试",
+        "page": 420,
+        "endPage": 420,
+        "pdfPage": 425,
+        "pdfEndPage": 425,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "233": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 256,
+        "endPage": 257,
+        "pdfPage": 261,
+        "pdfEndPage": 262
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.4 风险评估文档",
+        "page": 260,
+        "endPage": 260,
+        "pdfPage": 265,
+        "pdfEndPage": 265
+      }
+    ],
+    "234": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.4 信息安全应急响应管理过程",
+        "page": 154,
+        "endPage": 154,
+        "pdfPage": 159,
+        "pdfEndPage": 159
+      }
+    ],
+    "235": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.1 信息安全管理体系成功因素",
+        "page": 93,
+        "endPage": 94,
+        "pdfPage": 98,
+        "pdfEndPage": 99
+      }
+    ],
+    "236": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 408,
+        "endPage": 408,
+        "pdfPage": 413,
+        "pdfEndPage": 413
+      }
+    ],
+    "237": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.3 网络安全法",
+        "page": 50,
+        "endPage": 51,
+        "pdfPage": 55,
+        "pdfEndPage": 56
+      }
+    ],
+    "238": [
+      {
+        "kind": "related",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.1 密码学基本概念",
+        "page": 271,
+        "endPage": 272,
+        "pdfPage": 276,
+        "pdfEndPage": 277,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "239": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 259,
+        "endPage": 259,
+        "pdfPage": 264,
+        "pdfEndPage": 264
+      }
+    ],
+    "240": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.1 身份鉴别的概念",
+        "page": 293,
+        "endPage": 293,
+        "pdfPage": 298,
+        "pdfEndPage": 298
+      }
+    ],
+    "241": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.2 信息安全保障技术框架",
+        "page": 28,
+        "endPage": 29,
+        "pdfPage": 33,
+        "pdfEndPage": 34
+      }
+    ],
+    "242": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 53,
+        "endPage": 53,
+        "pdfPage": 58,
+        "pdfEndPage": 58,
+        "note": "教材介绍网络安全行政责任制度，未逐字列出本题各项制度的法律效力归类。"
+      }
+    ],
+    "243": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 373,
+        "endPage": 374,
+        "pdfPage": 378,
+        "pdfEndPage": 379
+      }
+    ],
+    "244": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.1.3 传输介质安全",
+        "page": 328,
+        "endPage": 328,
+        "pdfPage": 333,
+        "pdfEndPage": 333,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "245": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.2 我国信息安全标准",
+        "page": 72,
+        "endPage": 72,
+        "pdfPage": 77,
+        "pdfEndPage": 77
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.2 安全评估标准",
+        "page": 232,
+        "endPage": 232,
+        "pdfPage": 237,
+        "pdfEndPage": 237
+      }
+    ],
+    "246": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 112,
+        "endPage": 112,
+        "pdfPage": 117,
+        "pdfEndPage": 117
+      }
+    ],
+    "247": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.3.3 信息保护",
+        "page": 216,
+        "endPage": 217,
+        "pdfPage": 221,
+        "pdfEndPage": 222,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "248": [
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 248,
+        "endPage": 248,
+        "pdfPage": 253,
+        "pdfEndPage": 253,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "249": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.1 恶意代码预防",
+        "page": 369,
+        "endPage": 369,
+        "pdfPage": 374,
+        "pdfEndPage": 374
+      }
+    ],
+    "250": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.2 恶意代码检测与分析",
+        "page": 370,
+        "endPage": 370,
+        "pdfPage": 375,
+        "pdfEndPage": 375
+      }
+    ],
+    "251": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 107,
+        "endPage": 108,
+        "pdfPage": 112,
+        "pdfEndPage": 113
+      }
+    ],
+    "252": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.1 协议结构及安全问题",
+        "page": 334,
+        "endPage": 334,
+        "pdfPage": 339,
+        "pdfEndPage": 339,
+        "note": "本教材介绍 TCP/IP 结构，未定位到 DHCP 动态地址分配过程的直接说明。"
+      }
+    ],
+    "253": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.1 风险管理基本概念",
+        "page": 84,
+        "endPage": 84,
+        "pdfPage": 89,
+        "pdfEndPage": 89
+      }
+    ],
+    "254": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.2.1 OSI 模型",
+        "page": 330,
+        "endPage": 330,
+        "pdfPage": 335,
+        "pdfEndPage": 335
+      }
+    ],
+    "255": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.1 信息安全标准基础",
+        "page": 66,
+        "endPage": 66,
+        "pdfPage": 71,
+        "pdfEndPage": 71
+      }
+    ],
+    "256": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.1 信息安全标准基础",
+        "page": 67,
+        "endPage": 67,
+        "pdfPage": 72,
+        "pdfEndPage": 72
+      }
+    ],
+    "257": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.3 计算机取证与保全",
+        "page": 151,
+        "endPage": 151,
+        "pdfPage": 156,
+        "pdfEndPage": 156,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "258": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.2.1 信息收集",
+        "page": 364,
+        "endPage": 364,
+        "pdfPage": 369,
+        "pdfEndPage": 369
+      }
+    ],
+    "259": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 221,
+        "endPage": 221,
+        "pdfPage": 226,
+        "pdfEndPage": 226
+      }
+    ],
+    "260": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.3.1 内容安全基础",
+        "page": 212,
+        "endPage": 213,
+        "pdfPage": 217,
+        "pdfEndPage": 218
+      }
+    ],
+    "261": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.2 恶意代码检测与分析",
+        "page": 371,
+        "endPage": 371,
+        "pdfPage": 376,
+        "pdfEndPage": 376
+      }
+    ],
+    "262": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 356,
+        "endPage": 356,
+        "pdfPage": 361,
+        "pdfEndPage": 361
+      }
+    ],
+    "263": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.3 其他互联网应用",
+        "page": 384,
+        "endPage": 385,
+        "pdfPage": 389,
+        "pdfEndPage": 390
+      }
+    ],
+    "264": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.1 信息安全概念",
+        "page": 3,
+        "endPage": 4,
+        "pdfPage": 8,
+        "pdfEndPage": 9
+      }
+    ],
+    "265": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.5 Kerberos 体系",
+        "page": 300,
+        "endPage": 300,
+        "pdfPage": 305,
+        "pdfEndPage": 305
+      }
+    ],
+    "266": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.1 基于时间的安全模型",
+        "page": 25,
+        "endPage": 25,
+        "pdfPage": 30,
+        "pdfEndPage": 30
+      }
+    ],
+    "267": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.2 自主访问控制模型",
+        "page": 306,
+        "endPage": 306,
+        "pdfPage": 311,
+        "pdfEndPage": 311
+      }
+    ],
+    "268": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.3 软件安全开发生命周期模型",
+        "page": 398,
+        "endPage": 398,
+        "pdfPage": 403,
+        "pdfEndPage": 403
+      }
+    ],
+    "269": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.3.3 代码安全审核",
+        "page": 415,
+        "endPage": 416,
+        "pdfPage": 420,
+        "pdfEndPage": 421
+      }
+    ],
+    "270": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 256,
+        "endPage": 257,
+        "pdfPage": 261,
+        "pdfEndPage": 262
+      }
+    ],
+    "271": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.2 基于实体所知的鉴别",
+        "page": 294,
+        "endPage": 295,
+        "pdfPage": 299,
+        "pdfEndPage": 300
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366
+      }
+    ],
+    "272": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 222,
+        "endPage": 222,
+        "pdfPage": 227,
+        "pdfEndPage": 227
+      }
+    ],
+    "273": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 176,
+        "endPage": 176,
+        "pdfPage": 181,
+        "pdfEndPage": 181,
+        "note": "教材给出项目目标、时间、资源等管理要素，未直接给出本题四个风险判定选项的排序。"
+      }
+    ],
+    "274": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.1.2 设施安全",
+        "page": 326,
+        "endPage": 326,
+        "pdfPage": 331,
+        "pdfEndPage": 331
+      }
+    ],
+    "275": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.1 软件测试",
+        "page": 417,
+        "endPage": 418,
+        "pdfPage": 422,
+        "pdfEndPage": 423
+      }
+    ],
+    "276": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.2.1 国家网络空间安全战略",
+        "page": 59,
+        "endPage": 60,
+        "pdfPage": 64,
+        "pdfEndPage": 65
+      }
+    ],
+    "277": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.2 培训及教育",
+        "page": 224,
+        "endPage": 224,
+        "pdfPage": 229,
+        "pdfEndPage": 229,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "278": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.4.1 蓝牙安全",
+        "page": 339,
+        "endPage": 340,
+        "pdfPage": 344,
+        "pdfEndPage": 345
+      }
+    ],
+    "279": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.5 Kerberos 体系",
+        "page": 301,
+        "endPage": 303,
+        "pdfPage": 306,
+        "pdfEndPage": 308
+      }
+    ],
+    "280": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.2 信息安全管理体系控制措施结构",
+        "page": 102,
+        "endPage": 102,
+        "pdfPage": 107,
+        "pdfEndPage": 107
+      }
+    ],
+    "281": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 223,
+        "endPage": 224,
+        "pdfPage": 228,
+        "pdfEndPage": 229
+      }
+    ],
+    "282": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.3 强制访问控制模型",
+        "page": 308,
+        "endPage": 309,
+        "pdfPage": 313,
+        "pdfEndPage": 314
+      }
+    ],
+    "283": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 118,
+        "endPage": 119,
+        "pdfPage": 123,
+        "pdfEndPage": 124
+      }
+    ],
+    "284": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 223,
+        "endPage": 224,
+        "pdfPage": 228,
+        "pdfEndPage": 229
+      }
+    ],
+    "285": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.1 基本概念",
+        "page": 80,
+        "endPage": 80,
+        "pdfPage": 85,
+        "pdfEndPage": 85
+      }
+    ],
+    "286": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.5 Kerberos 体系",
+        "page": 301,
+        "endPage": 303,
+        "pdfPage": 306,
+        "pdfEndPage": 308
+      }
+    ],
+    "287": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.1.1 环境安全",
+        "page": 319,
+        "endPage": 319,
+        "pdfPage": 324,
+        "pdfEndPage": 324
+      }
+    ],
+    "288": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 90,
+        "endPage": 90,
+        "pdfPage": 95,
+        "pdfEndPage": 95
+      }
+    ],
+    "289": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 223,
+        "endPage": 223,
+        "pdfPage": 228,
+        "pdfEndPage": 228
+      }
+    ],
+    "290": [
+      {
+        "kind": "related",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.1 密码学基本概念",
+        "page": 269,
+        "endPage": 269,
+        "pdfPage": 274,
+        "pdfEndPage": 274,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "291": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 57,
+        "endPage": 57,
+        "pdfPage": 62,
+        "pdfEndPage": 62,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "292": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.2 自主访问控制模型",
+        "page": 306,
+        "endPage": 306,
+        "pdfPage": 311,
+        "pdfEndPage": 311
+      }
+    ],
+    "293": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.1 信息安全标准基础",
+        "page": 69,
+        "endPage": 69,
+        "pdfPage": 74,
+        "pdfEndPage": 74
+      }
+    ],
+    "294": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.3 强制访问控制模型",
+        "page": 308,
+        "endPage": 308,
+        "pdfPage": 313,
+        "pdfEndPage": 313
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.4 基于角色的访问控制模型",
+        "page": 314,
+        "endPage": 315,
+        "pdfPage": 319,
+        "pdfEndPage": 320
+      }
+    ],
+    "295": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 16,
+        "endPage": 16,
+        "pdfPage": 21,
+        "pdfEndPage": 21
+      }
+    ],
+    "296": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.1 风险评估相关要素",
+        "page": 245,
+        "endPage": 246,
+        "pdfPage": 250,
+        "pdfEndPage": 251
+      }
+    ],
+    "297": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 358,
+        "endPage": 358,
+        "pdfPage": 363,
+        "pdfEndPage": 363,
+        "note": "教材在 NTFS 语境下说明访问控制，但未直接介绍 EFS 文件加密。"
+      }
+    ],
+    "298": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 358,
+        "endPage": 358,
+        "pdfPage": 363,
+        "pdfEndPage": 363,
+        "note": "教材介绍 NTFS 的访问控制用途，未完整对比 FAT 与 NTFS 的全部差异。"
+      }
+    ],
+    "299": [
+      {
+        "kind": "related",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.3 非对称密码算法",
+        "page": 278,
+        "endPage": 278,
+        "pdfPage": 283,
+        "pdfEndPage": 283,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "300": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.3 非对称密码算法",
+        "page": 277,
+        "endPage": 278,
+        "pdfPage": 282,
+        "pdfEndPage": 283
+      }
+    ],
+    "301": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362,
+        "note": "本页介绍 Windows 安全主体和 SID，未直接列出本题各用户组的权限排序。"
+      }
+    ],
+    "302": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.1 密码学基本概念",
+        "page": 271,
+        "endPage": 271,
+        "pdfPage": 276,
+        "pdfEndPage": 276
+      }
+    ],
+    "303": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366,
+        "note": "教材覆盖日志策略，但未列出 Windows XP 事件查看器的具体日志类别。"
+      }
+    ],
+    "304": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 360,
+        "endPage": 361,
+        "pdfPage": 365,
+        "pdfEndPage": 366
+      }
+    ],
+    "305": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 285,
+        "endPage": 285,
+        "pdfPage": 290,
+        "pdfEndPage": 290
+      }
+    ],
+    "306": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 282,
+        "endPage": 283,
+        "pdfPage": 287,
+        "pdfEndPage": 288
+      }
+    ],
+    "307": [
+      {
+        "kind": "related",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.2 基于实体所知的鉴别",
+        "page": 294,
+        "endPage": 295,
+        "pdfPage": 299,
+        "pdfEndPage": 300,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "308": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 376,
+        "endPage": 376,
+        "pdfPage": 381,
+        "pdfEndPage": 381
+      }
+    ],
+    "309": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 38,
+        "endPage": 38,
+        "pdfPage": 43,
+        "pdfEndPage": 43
+      }
+    ],
+    "310": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 358,
+        "endPage": 358,
+        "pdfPage": 363,
+        "pdfEndPage": 363
+      }
+    ],
+    "311": [
+      {
+        "kind": "related",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 16,
+        "endPage": 16,
+        "pdfPage": 21,
+        "pdfEndPage": 21,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.2 我国信息安全标准",
+        "page": 70,
+        "endPage": 70,
+        "pdfPage": 75,
+        "pdfEndPage": 75
+      }
+    ],
+    "312": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 247,
+        "endPage": 248,
+        "pdfPage": 252,
+        "pdfEndPage": 253
+      }
+    ],
+    "313": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.2 信息安全管理的作用及对组织的价值",
+        "page": 82,
+        "endPage": 83,
+        "pdfPage": 87,
+        "pdfEndPage": 88
+      }
+    ],
+    "314": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.2.2 网络安全等级保护相关政策",
+        "page": 61,
+        "endPage": 61,
+        "pdfPage": 66,
+        "pdfEndPage": 66
+      }
+    ],
+    "315": [
+      {
+        "kind": "related",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.1 基于时间的安全模型",
+        "page": 25,
+        "endPage": 25,
+        "pdfPage": 30,
+        "pdfEndPage": 30,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 409,
+        "endPage": 409,
+        "pdfPage": 414,
+        "pdfEndPage": 414
+      }
+    ],
+    "316": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.1 密码学基本概念",
+        "page": 272,
+        "endPage": 273,
+        "pdfPage": 277,
+        "pdfEndPage": 278
+      }
+    ],
+    "317": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366,
+        "note": "教材要求管理共享等安全配置，未直接说明题干命令及重启后的持久化效果。"
+      }
+    ],
+    "318": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362
+      }
+    ],
+    "319": [
+      {
+        "kind": "related",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.1 密码学基本概念",
+        "page": 269,
+        "endPage": 269,
+        "pdfPage": 274,
+        "pdfEndPage": 274,
+        "note": "本页介绍古典密码的历史与常用方法，未详细给出本题替换密码与置换密码的比较。"
+      }
+    ],
+    "320": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.2 对称密码算法",
+        "page": 276,
+        "endPage": 276,
+        "pdfPage": 281,
+        "pdfEndPage": 281
+      }
+    ],
+    "321": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 356,
+        "endPage": 357,
+        "pdfPage": 361,
+        "pdfEndPage": 362,
+        "note": "教材说明操作系统服务与安全机制，未直接展开 Windows 服务控制管理器与交互登录的关系。"
+      }
+    ],
+    "322": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 283,
+        "endPage": 285,
+        "pdfPage": 288,
+        "pdfEndPage": 290
+      }
+    ],
+    "323": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "324": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.1 密码学基本概念",
+        "page": 271,
+        "endPage": 271,
+        "pdfPage": 276,
+        "pdfEndPage": 276
+      }
+    ],
+    "325": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 223,
+        "endPage": 224,
+        "pdfPage": 228,
+        "pdfEndPage": 229
+      }
+    ],
+    "326": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.2 拒绝服务攻击",
+        "page": 349,
+        "endPage": 349,
+        "pdfPage": 354,
+        "pdfEndPage": 354
+      }
+    ],
+    "327": [
+      {
+        "kind": "related",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 15,
+        "endPage": 16,
+        "pdfPage": 20,
+        "pdfEndPage": 21,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "328": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 283,
+        "endPage": 283,
+        "pdfPage": 288,
+        "pdfEndPage": 288
+      }
+    ],
+    "329": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 282,
+        "endPage": 282,
+        "pdfPage": 287,
+        "pdfEndPage": 287
+      }
+    ],
+    "330": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.4 灾难恢复管理过程",
+        "page": 167,
+        "endPage": 167,
+        "pdfPage": 172,
+        "pdfEndPage": 172,
+        "note": "本节介绍灾难恢复管理；未找到“实施后运营成本一定提高”的直接依据。"
+      }
+    ],
+    "331": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.2 自主访问控制模型",
+        "page": 307,
+        "endPage": 308,
+        "pdfPage": 312,
+        "pdfEndPage": 313
+      }
+    ],
+    "332": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.2 检测与审计",
+        "page": 353,
+        "endPage": 354,
+        "pdfPage": 358,
+        "pdfEndPage": 359
+      }
+    ],
+    "333": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 116,
+        "endPage": 116,
+        "pdfPage": 121,
+        "pdfEndPage": 121
+      }
+    ],
+    "334": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.2 安全解决方案",
+        "page": 337,
+        "endPage": 338,
+        "pdfPage": 342,
+        "pdfEndPage": 343
+      }
+    ],
+    "335": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.2 信息安全管理的作用及对组织的价值",
+        "page": 82,
+        "endPage": 82,
+        "pdfPage": 87,
+        "pdfEndPage": 87
+      }
+    ],
+    "336": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.3 灾难恢复策略",
+        "page": 166,
+        "endPage": 166,
+        "pdfPage": 171,
+        "pdfEndPage": 171
+      }
+    ],
+    "337": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.1 边界防护",
+        "page": 351,
+        "endPage": 352,
+        "pdfPage": 356,
+        "pdfEndPage": 357
+      }
+    ],
+    "338": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 358,
+        "endPage": 358,
+        "pdfPage": 363,
+        "pdfEndPage": 363,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "339": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.4.1 社会工程学",
+        "page": 223,
+        "endPage": 224,
+        "pdfPage": 228,
+        "pdfEndPage": 229,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "340": [
+      {
+        "kind": "related",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.2 基于实体所知的鉴别",
+        "page": 295,
+        "endPage": 295,
+        "pdfPage": 300,
+        "pdfEndPage": 300,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "341": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.2 软件安全测试",
+        "page": 421,
+        "endPage": 421,
+        "pdfPage": 426,
+        "pdfEndPage": 426
+      }
+    ],
+    "342": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 106,
+        "endPage": 108,
+        "pdfPage": 111,
+        "pdfEndPage": 113
+      }
+    ],
+    "343": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 113,
+        "endPage": 114,
+        "pdfPage": 118,
+        "pdfEndPage": 119
+      }
+    ],
+    "344": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.2.2 安全运营管理",
+        "page": 209,
+        "endPage": 210,
+        "pdfPage": 214,
+        "pdfEndPage": 215
+      }
+    ],
+    "345": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 408,
+        "endPage": 408,
+        "pdfPage": 413,
+        "pdfEndPage": 413
+      }
+    ],
+    "346": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.5 Kerberos 体系",
+        "page": 301,
+        "endPage": 303,
+        "pdfPage": 306,
+        "pdfEndPage": 308
+      }
+    ],
+    "347": [
+      {
+        "kind": "related",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.2 自主访问控制模型",
+        "page": 306,
+        "endPage": 306,
+        "pdfPage": 311,
+        "pdfEndPage": 311,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "348": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.1 边界防护",
+        "page": 351,
+        "endPage": 351,
+        "pdfPage": 356,
+        "pdfEndPage": 356
+      }
+    ],
+    "349": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "350": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.3 强制访问控制模型",
+        "page": 308,
+        "endPage": 309,
+        "pdfPage": 313,
+        "pdfEndPage": 314
+      }
+    ],
+    "351": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 257,
+        "endPage": 258,
+        "pdfPage": 262,
+        "pdfEndPage": 263
+      }
+    ],
+    "352": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 175,
+        "endPage": 175,
+        "pdfPage": 180,
+        "pdfEndPage": 180
+      }
+    ],
+    "353": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.1 信息安全标准基础",
+        "page": 67,
+        "endPage": 67,
+        "pdfPage": 72,
+        "pdfEndPage": 72,
+        "note": "教材介绍 IETF 等标准组织；未逐项讲解 RFC4301 的发布流程。"
+      }
+    ],
+    "354": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.2 安全评估标准",
+        "page": 233,
+        "endPage": 234,
+        "pdfPage": 238,
+        "pdfEndPage": 239
+      }
+    ],
+    "355": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.2 基于实体所知的鉴别",
+        "page": 295,
+        "endPage": 295,
+        "pdfPage": 300,
+        "pdfEndPage": 300
+      }
+    ],
+    "356": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.1 边界防护",
+        "page": 352,
+        "endPage": 352,
+        "pdfPage": 357,
+        "pdfEndPage": 357
+      }
+    ],
+    "357": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 283,
+        "endPage": 283,
+        "pdfPage": 288,
+        "pdfEndPage": 288
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 285,
+        "endPage": 285,
+        "pdfPage": 290,
+        "pdfEndPage": 290
+      }
+    ],
+    "358": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.1 灾难备份与恢复基础",
+        "page": 157,
+        "endPage": 157,
+        "pdfPage": 162,
+        "pdfEndPage": 162
+      }
+    ],
+    "359": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 145,
+        "endPage": 145,
+        "pdfPage": 150,
+        "pdfEndPage": 150
+      }
+    ],
+    "360": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 146,
+        "endPage": 146,
+        "pdfPage": 151,
+        "pdfEndPage": 151
+      }
+    ],
+    "361": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 253,
+        "endPage": 253,
+        "pdfPage": 258,
+        "pdfEndPage": 258
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 256,
+        "endPage": 256,
+        "pdfPage": 261,
+        "pdfEndPage": 261
+      }
+    ],
+    "362": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.2.2 安全运营管理",
+        "page": 209,
+        "endPage": 210,
+        "pdfPage": 214,
+        "pdfEndPage": 215,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "363": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.1.2 业务连续性计划",
+        "page": 138,
+        "endPage": 139,
+        "pdfPage": 143,
+        "pdfEndPage": 144
+      }
+    ],
+    "364": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 110,
+        "endPage": 112,
+        "pdfPage": 115,
+        "pdfEndPage": 117
+      }
+    ],
+    "365": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.1 软件测试",
+        "page": 417,
+        "endPage": 418,
+        "pdfPage": 422,
+        "pdfEndPage": 423
+      }
+    ],
+    "366": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.3 灾难恢复策略",
+        "page": 163,
+        "endPage": 163,
+        "pdfPage": 168,
+        "pdfEndPage": 168,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.3 灾难恢复策略",
+        "page": 166,
+        "endPage": 166,
+        "pdfPage": 171,
+        "pdfEndPage": 171
+      }
+    ],
+    "367": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 376,
+        "endPage": 376,
+        "pdfPage": 381,
+        "pdfEndPage": 381
+      }
+    ],
+    "368": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 16,
+        "endPage": 16,
+        "pdfPage": 21,
+        "pdfEndPage": 21
+      }
+    ],
+    "369": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 16,
+        "endPage": 16,
+        "pdfPage": 21,
+        "pdfEndPage": 21
+      }
+    ],
+    "370": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.2 信息安全管理的作用及对组织的价值",
+        "page": 82,
+        "endPage": 83,
+        "pdfPage": 87,
+        "pdfEndPage": 88
+      }
+    ],
+    "371": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.1 风险管理基本概念",
+        "page": 84,
+        "endPage": 85,
+        "pdfPage": 89,
+        "pdfEndPage": 90
+      }
+    ],
+    "372": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.4 企业安全架构",
+        "page": 40,
+        "endPage": 40,
+        "pdfPage": 45,
+        "pdfEndPage": 45
+      }
+    ],
+    "373": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 35,
+        "endPage": 36,
+        "pdfPage": 40,
+        "pdfEndPage": 41
+      }
+    ],
+    "374": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 35,
+        "endPage": 36,
+        "pdfPage": 40,
+        "pdfEndPage": 41
+      }
+    ],
+    "375": [
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 247,
+        "endPage": 247,
+        "pdfPage": 252,
+        "pdfEndPage": 252,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "376": [
+      {
+        "kind": "related",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.5 Kerberos 体系",
+        "page": 300,
+        "endPage": 303,
+        "pdfPage": 305,
+        "pdfEndPage": 308,
+        "note": "教材介绍 Kerberos 体系，但未展示题干中的完整跨域七步图。"
+      }
+    ],
+    "377": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.1 基于时间的安全模型",
+        "page": 26,
+        "endPage": 27,
+        "pdfPage": 31,
+        "pdfEndPage": 32
+      }
+    ],
+    "378": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.1 安全评估概念",
+        "page": 228,
+        "endPage": 228,
+        "pdfPage": 233,
+        "pdfEndPage": 233
+      }
+    ],
+    "379": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 247,
+        "endPage": 248,
+        "pdfPage": 252,
+        "pdfEndPage": 253
+      }
+    ],
+    "380": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 247,
+        "endPage": 247,
+        "pdfPage": 252,
+        "pdfEndPage": 252
+      }
+    ],
+    "381": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 251,
+        "endPage": 252,
+        "pdfPage": 256,
+        "pdfEndPage": 257
+      }
+    ],
+    "382": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 256,
+        "endPage": 256,
+        "pdfPage": 261,
+        "pdfEndPage": 261
+      }
+    ],
+    "383": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.4 文档化",
+        "page": 99,
+        "endPage": 101,
+        "pdfPage": 104,
+        "pdfEndPage": 106
+      }
+    ],
+    "384": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 175,
+        "endPage": 175,
+        "pdfPage": 180,
+        "pdfEndPage": 180
+      }
+    ],
+    "385": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.1 访问控制模型的基本概念",
+        "page": 305,
+        "endPage": 306,
+        "pdfPage": 310,
+        "pdfEndPage": 311
+      }
+    ],
+    "386": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.1.1 业务连续性管理基础",
+        "page": 133,
+        "endPage": 135,
+        "pdfPage": 138,
+        "pdfEndPage": 140,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "387": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.3.1 安全编码原则",
+        "page": 413,
+        "endPage": 413,
+        "pdfPage": 418,
+        "pdfEndPage": 418
+      }
+    ],
+    "388": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.4 信息安全应急响应管理过程",
+        "page": 152,
+        "endPage": 153,
+        "pdfPage": 157,
+        "pdfEndPage": 158
+      }
+    ],
+    "389": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.3 基于实体所有的鉴别",
+        "page": 297,
+        "endPage": 297,
+        "pdfPage": 302,
+        "pdfEndPage": 302
+      }
+    ],
+    "390": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.3 其他互联网应用",
+        "page": 384,
+        "endPage": 384,
+        "pdfPage": 389,
+        "pdfEndPage": 389,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "391": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.1 风险管理基本概念",
+        "page": 84,
+        "endPage": 85,
+        "pdfPage": 89,
+        "pdfEndPage": 90,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "392": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.1 边界防护",
+        "page": 351,
+        "endPage": 351,
+        "pdfPage": 356,
+        "pdfEndPage": 356
+      }
+    ],
+    "393": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 358,
+        "endPage": 359,
+        "pdfPage": 363,
+        "pdfEndPage": 364,
+        "note": "教材介绍操作系统权限控制，未直接给出题干 setuid 文件权限串的推导。"
+      }
+    ],
+    "394": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 409,
+        "endPage": 409,
+        "pdfPage": 414,
+        "pdfEndPage": 414
+      }
+    ],
+    "395": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 257,
+        "endPage": 258,
+        "pdfPage": 262,
+        "pdfEndPage": 263
+      }
+    ],
+    "396": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "397": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.2 信息安全属性",
+        "page": 6,
+        "endPage": 7,
+        "pdfPage": 11,
+        "pdfEndPage": 12
+      }
+    ],
+    "398": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 148,
+        "endPage": 149,
+        "pdfPage": 153,
+        "pdfEndPage": 154
+      }
+    ],
+    "399": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.2 PDCA 过程",
+        "page": 94,
+        "endPage": 94,
+        "pdfPage": 99,
+        "pdfEndPage": 99
+      }
+    ],
+    "400": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 256,
+        "endPage": 257,
+        "pdfPage": 261,
+        "pdfEndPage": 262
+      }
+    ],
+    "401": [
+      {
+        "kind": "related",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 15,
+        "endPage": 16,
+        "pdfPage": 20,
+        "pdfEndPage": 21,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "402": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.2 我国信息安全标准",
+        "page": 70,
+        "endPage": 70,
+        "pdfPage": 75,
+        "pdfEndPage": 75
+      }
+    ],
+    "403": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 408,
+        "endPage": 408,
+        "pdfPage": 413,
+        "pdfEndPage": 413
+      }
+    ],
+    "404": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 376,
+        "endPage": 378,
+        "pdfPage": 381,
+        "pdfEndPage": 383,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "405": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.1 边界防护",
+        "page": 351,
+        "endPage": 351,
+        "pdfPage": 356,
+        "pdfEndPage": 356
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 380,
+        "endPage": 380,
+        "pdfPage": 385,
+        "pdfEndPage": 385
+      }
+    ],
+    "406": [
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.2 安全评估标准",
+        "page": 228,
+        "endPage": 229,
+        "pdfPage": 233,
+        "pdfEndPage": 234,
+        "note": "教材介绍可信系统评估及安全机制，未直接讨论题目所指现代可信计算平台是否替代传统防护。"
+      }
+    ],
+    "407": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 358,
+        "endPage": 358,
+        "pdfPage": 363,
+        "pdfEndPage": 363,
+        "note": "教材说明文件访问控制，未逐项列出 Unix rwx 模式位的表示方法。"
+      }
+    ],
+    "408": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366,
+        "note": "教材提供安全配置与服务信息收集背景，未直接说明 Apache 主配置文件名。"
+      }
+    ],
+    "409": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.5.1 数据库安全",
+        "page": 385,
+        "endPage": 386,
+        "pdfPage": 390,
+        "pdfEndPage": 391
+      }
+    ],
+    "410": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.2.2 缓冲区溢出攻击",
+        "page": 365,
+        "endPage": 366,
+        "pdfPage": 370,
+        "pdfEndPage": 371
+      }
+    ],
+    "411": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 35,
+        "endPage": 35,
+        "pdfPage": 40,
+        "pdfEndPage": 40
+      }
+    ],
+    "412": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 359,
+        "endPage": 359,
+        "pdfPage": 364,
+        "pdfEndPage": 364
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 408,
+        "endPage": 408,
+        "pdfPage": 413,
+        "pdfEndPage": 413
+      }
+    ],
+    "413": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.1 恶意代码预防",
+        "page": 368,
+        "endPage": 368,
+        "pdfPage": 373,
+        "pdfEndPage": 373,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "414": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.3.2 恶意代码检测与分析",
+        "page": 370,
+        "endPage": 371,
+        "pdfPage": 375,
+        "pdfEndPage": 376,
+        "note": "教材涵盖恶意代码检测与分析，但未逐项列出题干全部隐藏技术。"
+      }
+    ],
+    "415": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.2 拒绝服务攻击",
+        "page": 349,
+        "endPage": 349,
+        "pdfPage": 354,
+        "pdfEndPage": 354
+      }
+    ],
+    "416": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.2 拒绝服务攻击",
+        "page": 349,
+        "endPage": 350,
+        "pdfPage": 354,
+        "pdfEndPage": 355
+      }
+    ],
+    "417": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.1 协议结构及安全问题",
+        "page": 335,
+        "endPage": 336,
+        "pdfPage": 340,
+        "pdfEndPage": 341
+      }
+    ],
+    "418": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.1 协议结构及安全问题",
+        "page": 336,
+        "endPage": 336,
+        "pdfPage": 341,
+        "pdfEndPage": 341
+      }
+    ],
+    "419": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.2 自主访问控制模型",
+        "page": 307,
+        "endPage": 308,
+        "pdfPage": 312,
+        "pdfEndPage": 313
+      }
+    ],
+    "420": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 176,
+        "endPage": 177,
+        "pdfPage": 181,
+        "pdfEndPage": 182
+      }
+    ],
+    "421": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.1 欺骗攻击",
+        "page": 348,
+        "endPage": 348,
+        "pdfPage": 353,
+        "pdfEndPage": 353,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "422": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.3.3 代码安全审核",
+        "page": 415,
+        "endPage": 416,
+        "pdfPage": 420,
+        "pdfEndPage": 421
+      }
+    ],
+    "423": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.3 信息安全管理体系建设过程",
+        "page": 98,
+        "endPage": 98,
+        "pdfPage": 103,
+        "pdfEndPage": 103
+      }
+    ],
+    "424": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 89,
+        "endPage": 89,
+        "pdfPage": 94,
+        "pdfEndPage": 94
+      }
+    ],
+    "425": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 90,
+        "endPage": 90,
+        "pdfPage": 95,
+        "pdfEndPage": 95
+      }
+    ],
+    "426": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 408,
+        "endPage": 408,
+        "pdfPage": 413,
+        "pdfEndPage": 413
+      }
+    ],
+    "427": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 256,
+        "endPage": 256,
+        "pdfPage": 261,
+        "pdfEndPage": 261
+      }
+    ],
+    "428": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.1.1 安全评估概念",
+        "page": 228,
+        "endPage": 228,
+        "pdfPage": 233,
+        "pdfEndPage": 233
+      }
+    ],
+    "429": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.3 网络安全等级保护标准族",
+        "page": 77,
+        "endPage": 77,
+        "pdfPage": 82,
+        "pdfEndPage": 82
+      }
+    ],
+    "430": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 16,
+        "endPage": 16,
+        "pdfPage": 21,
+        "pdfEndPage": 21
+      }
+    ],
+    "431": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 175,
+        "endPage": 175,
+        "pdfPage": 180,
+        "pdfEndPage": 180,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "432": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.3 信息安全管理体系建设过程",
+        "page": 96,
+        "endPage": 96,
+        "pdfPage": 101,
+        "pdfEndPage": 101
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.3 信息安全管理体系建设过程",
+        "page": 98,
+        "endPage": 98,
+        "pdfPage": 103,
+        "pdfEndPage": 103
+      }
+    ],
+    "433": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.2 软件安全测试",
+        "page": 420,
+        "endPage": 423,
+        "pdfPage": 425,
+        "pdfEndPage": 428
+      }
+    ],
+    "434": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.3 软件安全设计",
+        "page": 408,
+        "endPage": 408,
+        "pdfPage": 413,
+        "pdfEndPage": 413
+      }
+    ],
+    "435": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.2 基于实体所知的鉴别",
+        "page": 294,
+        "endPage": 294,
+        "pdfPage": 299,
+        "pdfEndPage": 299
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.3 基于实体所有的鉴别",
+        "page": 297,
+        "endPage": 298,
+        "pdfPage": 302,
+        "pdfEndPage": 303
+      }
+    ],
+    "436": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.2 软件安全测试",
+        "page": 422,
+        "endPage": 423,
+        "pdfPage": 427,
+        "pdfEndPage": 428
+      }
+    ],
+    "437": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.1 系统安全工程基础",
+        "page": 174,
+        "endPage": 175,
+        "pdfPage": 179,
+        "pdfEndPage": 180,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "438": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.2 软件安全测试",
+        "page": 421,
+        "endPage": 421,
+        "pdfPage": 426,
+        "pdfEndPage": 426
+      }
+    ],
+    "439": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.1 系统安全工程基础",
+        "page": 174,
+        "endPage": 175,
+        "pdfPage": 179,
+        "pdfEndPage": 180
+      }
+    ],
+    "440": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.4 基于实体特征的鉴别",
+        "page": 298,
+        "endPage": 300,
+        "pdfPage": 303,
+        "pdfEndPage": 305
+      }
+    ],
+    "441": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.3 系统安全工程能力成熟度模型",
+        "page": 181,
+        "endPage": 181,
+        "pdfPage": 186,
+        "pdfEndPage": 186
+      }
+    ],
+    "442": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.4 文档化",
+        "page": 99,
+        "endPage": 100,
+        "pdfPage": 104,
+        "pdfEndPage": 105
+      }
+    ],
+    "443": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.1 信息安全管理体系成功因素",
+        "page": 93,
+        "endPage": 94,
+        "pdfPage": 98,
+        "pdfEndPage": 99
+      }
+    ],
+    "444": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 253,
+        "endPage": 255,
+        "pdfPage": 258,
+        "pdfEndPage": 260
+      }
+    ],
+    "445": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.2 软件安全测试",
+        "page": 422,
+        "endPage": 423,
+        "pdfPage": 427,
+        "pdfEndPage": 428
+      }
+    ],
+    "446": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 377,
+        "endPage": 377,
+        "pdfPage": 382,
+        "pdfEndPage": 382
+      }
+    ],
+    "447": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 358,
+        "endPage": 358,
+        "pdfPage": 363,
+        "pdfEndPage": 363,
+        "note": "教材说明访问控制，未直接列出 chmod 数字权限与字母权限的对应表。"
+      }
+    ],
+    "448": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.3 软件安全开发生命周期模型",
+        "page": 397,
+        "endPage": 398,
+        "pdfPage": 402,
+        "pdfEndPage": 403
+      }
+    ],
+    "449": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.3 系统安全工程能力成熟度模型",
+        "page": 179,
+        "endPage": 179,
+        "pdfPage": 184,
+        "pdfEndPage": 184
+      }
+    ],
+    "450": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.3 系统安全工程能力成熟度模型",
+        "page": 181,
+        "endPage": 181,
+        "pdfPage": 186,
+        "pdfEndPage": 186
+      }
+    ],
+    "451": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.2 拒绝服务攻击",
+        "page": 349,
+        "endPage": 350,
+        "pdfPage": 354,
+        "pdfEndPage": 355
+      }
+    ],
+    "452": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.1 风险管理基本概念",
+        "page": 84,
+        "endPage": 84,
+        "pdfPage": 89,
+        "pdfEndPage": 89
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 259,
+        "endPage": 259,
+        "pdfPage": 264,
+        "pdfEndPage": 264
+      }
+    ],
+    "453": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.1 计算机犯罪",
+        "page": 43,
+        "endPage": 43,
+        "pdfPage": 48,
+        "pdfEndPage": 48
+      }
+    ],
+    "454": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.2 风险评估途径与方式方法",
+        "page": 248,
+        "endPage": 249,
+        "pdfPage": 253,
+        "pdfEndPage": 254
+      }
+    ],
+    "455": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 58,
+        "endPage": 58,
+        "pdfPage": 63,
+        "pdfEndPage": 63
+      }
+    ],
+    "456": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 91,
+        "endPage": 92,
+        "pdfPage": 96,
+        "pdfEndPage": 97
+      }
+    ],
+    "457": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.3 网络安全等级保护标准族",
+        "page": 78,
+        "endPage": 78,
+        "pdfPage": 83,
+        "pdfEndPage": 83
+      }
+    ],
+    "458": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.2 信息安全管理体系控制措施结构",
+        "page": 101,
+        "endPage": 101,
+        "pdfPage": 106,
+        "pdfEndPage": 106,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 111,
+        "endPage": 111,
+        "pdfPage": 116,
+        "pdfEndPage": 116
+      }
+    ],
+    "459": [
+      {
+        "kind": "related",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.1.4 网络安全相关法规",
+        "page": 57,
+        "endPage": 57,
+        "pdfPage": 62,
+        "pdfEndPage": 62,
+        "note": "教材介绍保密法规及一般责任框架，未完整覆盖本题关于各类保密违规法律责任的判定。"
+      }
+    ],
+    "460": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.3 非对称密码算法",
+        "page": 277,
+        "endPage": 278,
+        "pdfPage": 282,
+        "pdfEndPage": 283
+      }
+    ],
+    "461": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.1 身份鉴别的概念",
+        "page": 293,
+        "endPage": 293,
+        "pdfPage": 298,
+        "pdfEndPage": 298
+      }
+    ],
+    "462": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 145,
+        "endPage": 145,
+        "pdfPage": 150,
+        "pdfEndPage": 150
+      }
+    ],
+    "463": [
+      {
+        "kind": "related",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.2 信息安全保障技术框架",
+        "page": 29,
+        "endPage": 30,
+        "pdfPage": 34,
+        "pdfEndPage": 35,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "464": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.1 风险管理基本概念",
+        "page": 86,
+        "endPage": 86,
+        "pdfPage": 91,
+        "pdfEndPage": 91
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.1.3 软件安全开发生命周期模型",
+        "page": 397,
+        "endPage": 397,
+        "pdfPage": 402,
+        "pdfEndPage": 402
+      }
+    ],
+    "465": [
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 250,
+        "endPage": 250,
+        "pdfPage": 255,
+        "pdfEndPage": 255,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "466": [
+      {
+        "kind": "related",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 253,
+        "endPage": 253,
+        "pdfPage": 258,
+        "pdfEndPage": 258,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "467": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 103,
+        "endPage": 103,
+        "pdfPage": 108,
+        "pdfEndPage": 108,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "468": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.5.1 欺骗攻击",
+        "page": 347,
+        "endPage": 348,
+        "pdfPage": 352,
+        "pdfEndPage": 353
+      }
+    ],
+    "469": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.3 信息安全管理体系建设过程",
+        "page": 96,
+        "endPage": 97,
+        "pdfPage": 101,
+        "pdfEndPage": 102
+      }
+    ],
+    "470": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.1 信息安全标准基础",
+        "page": 68,
+        "endPage": 68,
+        "pdfPage": 73,
+        "pdfEndPage": 73
+      }
+    ],
+    "471": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.3 风险评估基本过程",
+        "page": 257,
+        "endPage": 258,
+        "pdfPage": 262,
+        "pdfEndPage": 263
+      }
+    ],
+    "472": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.2.1 OSI 模型",
+        "page": 329,
+        "endPage": 330,
+        "pdfPage": 334,
+        "pdfEndPage": 335
+      }
+    ],
+    "473": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.3 强制访问控制模型",
+        "page": 308,
+        "endPage": 309,
+        "pdfPage": 313,
+        "pdfEndPage": 314
+      }
+    ],
+    "474": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 115,
+        "endPage": 115,
+        "pdfPage": 120,
+        "pdfEndPage": 120
+      }
+    ],
+    "475": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.1 基于时间的安全模型",
+        "page": 26,
+        "endPage": 27,
+        "pdfPage": 31,
+        "pdfEndPage": 32
+      }
+    ],
+    "476": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.3 安全风险管理基本过程",
+        "page": 89,
+        "endPage": 92,
+        "pdfPage": 94,
+        "pdfEndPage": 97
+      }
+    ],
+    "477": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 123,
+        "endPage": 123,
+        "pdfPage": 128,
+        "pdfEndPage": 128
+      }
+    ],
+    "478": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.4.3 信息安全管理体系控制措施",
+        "page": 118,
+        "endPage": 118,
+        "pdfPage": 123,
+        "pdfEndPage": 123
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366
+      }
+    ],
+    "479": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.1 系统安全工程基础",
+        "page": 173,
+        "endPage": 175,
+        "pdfPage": 178,
+        "pdfEndPage": 180,
+        "note": "教材介绍系统安全工程，未直接给出题干信息安全工程监理模型的完整组成。"
+      }
+    ],
+    "480": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.4.1 软件测试",
+        "page": 418,
+        "endPage": 419,
+        "pdfPage": 423,
+        "pdfEndPage": 424
+      }
+    ],
+    "481": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 175,
+        "endPage": 176,
+        "pdfPage": 180,
+        "pdfEndPage": 181,
+        "note": "教材介绍工程与项目管理，未直接给出该施工监理审核清单。"
+      }
+    ],
+    "482": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.2 系统安全工程理论基础",
+        "page": 175,
+        "endPage": 176,
+        "pdfPage": 180,
+        "pdfEndPage": 181
+      }
+    ],
+    "483": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.4 灾难恢复管理过程",
+        "page": 171,
+        "endPage": 172,
+        "pdfPage": 176,
+        "pdfEndPage": 177,
+        "note": "教材介绍恢复计划、测试和维护，未直接将错误事件报告列为本题的唯一首查材料。"
+      }
+    ],
+    "484": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.2.2 常见风险管理模型",
+        "page": 88,
+        "endPage": 88,
+        "pdfPage": 93,
+        "pdfEndPage": 93,
+        "note": "本页介绍 COBIT 相关框架背景，未直接复现题干所用历史版本的五组件排列图。"
+      }
+    ],
+    "485": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.3.4 灾难恢复管理过程",
+        "page": 169,
+        "endPage": 170,
+        "pdfPage": 174,
+        "pdfEndPage": 175
+      }
+    ],
+    "486": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.1.2 业务连续性计划",
+        "page": 138,
+        "endPage": 139,
+        "pdfPage": 143,
+        "pdfEndPage": 144,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "487": [
+      {
+        "kind": "related",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.3 信息系统安全保障评估框架",
+        "page": 34,
+        "endPage": 35,
+        "pdfPage": 39,
+        "pdfEndPage": 40,
+        "note": "教材介绍安全保障评估框架及技术、管理、工程要求；未直接展开本题 ISST 的完整术语定义。"
+      }
+    ],
+    "488": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.2 信息安全属性",
+        "page": 6,
+        "endPage": 6,
+        "pdfPage": 11,
+        "pdfEndPage": 11
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.3 强制访问控制模型",
+        "page": 310,
+        "endPage": 311,
+        "pdfPage": 315,
+        "pdfEndPage": 316
+      }
+    ],
+    "489": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 15,
+        "endPage": 16,
+        "pdfPage": 20,
+        "pdfEndPage": 21
+      }
+    ],
+    "490": [
+      {
+        "kind": "related",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.2 信息安全保障技术框架",
+        "page": 28,
+        "endPage": 30,
+        "pdfPage": 33,
+        "pdfEndPage": 35,
+        "note": "本节介绍纵深防御的多点、分层原则，未逐字给出题干“从内到外、自上而下”的三向表述。"
+      }
+    ],
+    "491": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 2 章 网络安全监管",
+        "section": "2.4.3 网络安全等级保护标准族",
+        "page": 75,
+        "endPage": 76,
+        "pdfPage": 80,
+        "pdfEndPage": 81
+      }
+    ],
+    "492": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.3 非对称密码算法",
+        "page": 277,
+        "endPage": 278,
+        "pdfPage": 282,
+        "pdfEndPage": 283
+      }
+    ],
+    "493": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.3 基于实体所有的鉴别",
+        "page": 297,
+        "endPage": 298,
+        "pdfPage": 302,
+        "pdfEndPage": 303
+      }
+    ],
+    "494": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.2 自主访问控制模型",
+        "page": 307,
+        "endPage": 308,
+        "pdfPage": 312,
+        "pdfEndPage": 313
+      }
+    ],
+    "495": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.3.4 基于角色的访问控制模型",
+        "page": 314,
+        "endPage": 315,
+        "pdfPage": 319,
+        "pdfEndPage": 320
+      }
+    ],
+    "496": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.6 认证、授权和计费",
+        "page": 304,
+        "endPage": 304,
+        "pdfPage": 309,
+        "pdfEndPage": 309
+      },
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.3 接入管理",
+        "page": 354,
+        "endPage": 354,
+        "pdfPage": 359,
+        "pdfEndPage": 359
+      }
+    ],
+    "497": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.5 Kerberos 体系",
+        "page": 301,
+        "endPage": 303,
+        "pdfPage": 306,
+        "pdfEndPage": 308
+      }
+    ],
+    "498": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.2.3 基于实体所有的鉴别",
+        "page": 297,
+        "endPage": 297,
+        "pdfPage": 302,
+        "pdfEndPage": 302
+      }
+    ],
+    "499": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.2 检测与审计",
+        "page": 352,
+        "endPage": 352,
+        "pdfPage": 357,
+        "pdfEndPage": 357,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "500": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.1 边界防护",
+        "page": 352,
+        "endPage": 352,
+        "pdfPage": 357,
+        "pdfEndPage": 357
+      }
+    ],
+    "501": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.2.3 OSI 七层模型安全体系",
+        "page": 331,
+        "endPage": 333,
+        "pdfPage": 336,
+        "pdfEndPage": 338,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "502": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366
+      }
+    ],
+    "503": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 360,
+        "endPage": 361,
+        "pdfPage": 365,
+        "pdfEndPage": 366,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "504": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 6 章 信息安全评估",
+        "section": "6.2.1 风险评估相关要素",
+        "page": 240,
+        "endPage": 241,
+        "pdfPage": 245,
+        "pdfEndPage": 246
+      }
+    ],
+    "505": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.4.1 Web 应用安全",
+        "page": 373,
+        "endPage": 378,
+        "pdfPage": 378,
+        "pdfEndPage": 383,
+        "note": "教材中可定位到相关概念或控制原则，但未直接复现本题场景或全部选项判断；作为延伸阅读参考。"
+      }
+    ],
+    "506": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.3.3 代码安全审核",
+        "page": 415,
+        "endPage": 416,
+        "pdfPage": 420,
+        "pdfEndPage": 421
+      }
+    ],
+    "507": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 10 章 软件安全开发",
+        "section": "10.2.1 威胁建模",
+        "page": 405,
+        "endPage": 406,
+        "pdfPage": 410,
+        "pdfEndPage": 411
+      }
+    ],
+    "508": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 282,
+        "endPage": 283,
+        "pdfPage": 287,
+        "pdfEndPage": 288
+      }
+    ],
+    "509": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.2.1 基于时间的安全模型",
+        "page": 26,
+        "endPage": 27,
+        "pdfPage": 31,
+        "pdfEndPage": 32
+      }
+    ],
+    "510": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.3.3 信息安全管理体系建设过程",
+        "page": 96,
+        "endPage": 98,
+        "pdfPage": 101,
+        "pdfEndPage": 103
+      }
+    ],
+    "511": [
+      {
+        "kind": "related",
+        "chapter": "第 5 章 安全工程与运营",
+        "section": "5.1.3 系统安全工程能力成熟度模型",
+        "page": 179,
+        "endPage": 179,
+        "pdfPage": 184,
+        "pdfEndPage": 184,
+        "note": "教材只在相关模型背景中提到 SSAM，未找到本题四阶段与最终分析的详细图示。"
+      }
+    ],
+    "512": [
+      {
+        "kind": "related",
+        "chapter": "第 4 章 业务连续性",
+        "section": "4.2.1 信息安全事件与应急响应",
+        "page": 149,
+        "endPage": 150,
+        "pdfPage": 154,
+        "pdfEndPage": 155,
+        "note": "教材在 P149—150 介绍应急响应组织及各组职责，未直接复现题干空白框图的左右顺序。"
+      }
+    ],
+    "513": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 7 章 信息安全支撑技术",
+        "section": "7.1.4 其他密码服务",
+        "page": 285,
+        "endPage": 285,
+        "pdfPage": 290,
+        "pdfEndPage": 290
+      }
+    ],
+    "514": [
+      {
+        "kind": "knowledge",
+        "chapter": "第 1 章 信息安全保障",
+        "section": "1.1.4 信息安全发展阶段",
+        "page": 15,
+        "endPage": 16,
+        "pdfPage": 20,
+        "pdfEndPage": 21
+      }
+    ],
+    "515": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362,
+        "note": "本页介绍 Windows 身份鉴别与集中认证背景，未直接给出 Windows NT 分布式安全环境的命名。"
+      }
+    ],
+    "516": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 360,
+        "endPage": 361,
+        "pdfPage": 365,
+        "pdfEndPage": 366,
+        "note": "教材介绍操作系统安全配置，未记载 Windows 安全中心首次出现的版本。"
+      }
+    ],
+    "517": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.2 操作系统安全配置要点",
+        "page": 361,
+        "endPage": 361,
+        "pdfPage": 366,
+        "pdfEndPage": 366,
+        "note": "教材介绍操作系统安全配置，未列出 MMC 控制台启动命令。"
+      }
+    ],
+    "518": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.2.1 信息收集",
+        "page": 362,
+        "endPage": 363,
+        "pdfPage": 367,
+        "pdfEndPage": 368,
+        "note": "教材介绍服务旗标、端口等信息收集，未列出 netstat 命令用法。"
+      }
+    ],
+    "519": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.1.1 操作系统安全机制",
+        "page": 357,
+        "endPage": 357,
+        "pdfPage": 362,
+        "pdfEndPage": 362,
+        "note": "本页涉及 Windows 账户与注册表，未直接列出注册表编辑器的启动命令。"
+      }
+    ],
+    "520": [
+      {
+        "kind": "related",
+        "chapter": "第 9 章 计算环境安全",
+        "section": "9.2.1 信息收集",
+        "page": 363,
+        "endPage": 364,
+        "pdfPage": 368,
+        "pdfEndPage": 369,
+        "note": "教材说明服务旗标和系统类型探测，未直接复现题干的 FTP 操作截图。"
+      }
+    ],
+    "521": [
+      {
+        "kind": "related",
+        "chapter": "第 3 章 信息安全管理",
+        "section": "3.1.1 基本概念",
+        "page": 82,
+        "endPage": 82,
+        "pdfPage": 87,
+        "pdfEndPage": 87,
+        "note": "教材提到 BS7799 与 ISO/IEC27001 演变，未直接给出 ISO17799 演变为 ISO27002 的完整链条。"
+      }
+    ],
+    "522": [
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.3.2 安全解决方案",
+        "page": 337,
+        "endPage": 338,
+        "pdfPage": 342,
+        "pdfEndPage": 343,
+        "note": "教材介绍 IPsec 与 VPN 的背景，未直接展开本题网关到网关隧道模式的具体处理位置。"
+      },
+      {
+        "kind": "related",
+        "chapter": "第 8 章 物理与网络通信安全",
+        "section": "8.6.3 接入管理",
+        "page": 354,
+        "endPage": 355,
+        "pdfPage": 359,
+        "pdfEndPage": 360
+      }
+    ]
+  }
+}

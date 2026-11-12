@@ -1,11 +1,27 @@
 {
   "date": "2026-11-12",
   "desktop": {
-    "passed": 41,
-    "total": 41,
+    "passed": 49,
+    "total": 49,
     "results": [
       {
         "name": "522 complete questions",
+        "passed": true
+      },
+      {
+        "name": "all questions have textbook chapter and paired page references",
+        "passed": true
+      },
+      {
+        "name": "TACACS source points to the actual textbook page",
+        "passed": true
+      },
+      {
+        "name": "shared textbook pages retain the matching subsection",
+        "passed": true
+      },
+      {
+        "name": "SSAM and Windows command details remain marked related reading",
         "passed": true
       },
       {
@@ -146,6 +162,22 @@
       },
       {
         "name": "diagram question and explanation render",
+        "passed": true
+      },
+      {
+        "name": "related textbook source renders with its qualification",
+        "passed": true
+      },
+      {
+        "name": "textbook source link stays relative and uses physical PDF pages",
+        "passed": true
+      },
+      {
+        "name": "knowledge source shows section, printed page and PDF page",
+        "passed": true
+      },
+      {
+        "name": "exported source lines include book, section and both page systems",
         "passed": true
       },
       {
@@ -175,11 +207,27 @@
     ]
   },
   "mobile": {
-    "passed": 41,
-    "total": 41,
+    "passed": 49,
+    "total": 49,
     "results": [
       {
         "name": "522 complete questions",
+        "passed": true
+      },
+      {
+        "name": "all questions have textbook chapter and paired page references",
+        "passed": true
+      },
+      {
+        "name": "TACACS source points to the actual textbook page",
+        "passed": true
+      },
+      {
+        "name": "shared textbook pages retain the matching subsection",
+        "passed": true
+      },
+      {
+        "name": "SSAM and Windows command details remain marked related reading",
         "passed": true
       },
       {
@@ -320,6 +368,22 @@
       },
       {
         "name": "diagram question and explanation render",
+        "passed": true
+      },
+      {
+        "name": "related textbook source renders with its qualification",
+        "passed": true
+      },
+      {
+        "name": "textbook source link stays relative and uses physical PDF pages",
+        "passed": true
+      },
+      {
+        "name": "knowledge source shows section, printed page and PDF page",
+        "passed": true
+      },
+      {
+        "name": "exported source lines include book, section and both page systems",
         "passed": true
       },
       {
@@ -350,8 +414,11 @@
   },
   "manualChecks": {
     "actualNavigationReloadRestoredExactSession": true,
-    "allSixViewsMobileNoHorizontalOverflow": true,
-    "markdownExportScoreAndWrongCountAndReasoningAndSource": true,
-    "offlineFileExamAndLocalStorage": true
+    "markdownExportIncludesBookSectionPrintedAndPdfPages": true,
+    "markdownExportIncludesRelatedReadingNote": true,
+    "offlineFileTextbookSources": true,
+    "original522QuestionsAndAnswersUnchanged": true,
+    "noHardcodedPersonalPaths": true,
+    "desktopAndMobileTextbookSourcesVisuallyChecked": true
   }
 }

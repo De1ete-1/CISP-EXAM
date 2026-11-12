@@ -32,6 +32,13 @@
     "D": 154
   },
   "questionPdfSha256": "73374a2f4c8560b83a8cb0cbb2d95ca869672e77e326daa4bc297a7e245510c4",
-  "htmlSha256": "6f4d6d5c406af15258f6afbf5f6d56bbb9ebb830b518cb11cd3a2851e72a296e",
-  "selfContained": true
+  "htmlSha256": "fa80d5d7f55c6feb71bbf42bb71c9906fac5375c16db195107d0f45dd5cdbbb5",
+  "selfContained": true,
+  "textbookReferences": {
+    "coveredQuestions": 522,
+    "knowledgePointQuestions": 403,
+    "relatedReadingQuestions": 119,
+    "bookSha256": "7c3a4a4e3859af42a8978d4864def09c209bc49e04add0e07fd0affcf1cbe8c4",
+    "bookFileChecked": true
+  }
 }

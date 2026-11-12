@@ -8,6 +8,10 @@
   try {
     state=defaultState();view='home';render();
     check('522 complete questions',BANK.length===522&&BANK.every((q,i)=>q.id===i+1&&q.options.length===4&&q.options.every(Boolean)&&letters.includes(q.answer)&&q.explanation.length>8));
+    check('all questions have textbook chapter and paired page references',BANK.every(q=>q.textbookSources?.length&&q.textbookSources.every(r=>r.chapter&&r.section&&r.pdfPage===r.page+5&&r.pdfEndPage===r.endPage+5)));
+    check('TACACS source points to the actual textbook page',BY_ID.get(10).textbookSources[0].page===304&&BY_ID.get(155).textbookSources[0].pdfPage===309);
+    check('shared textbook pages retain the matching subsection',BY_ID.get(233).textbookSources.find(r=>r.page===260).section.startsWith('6.2.4')&&BY_ID.get(152).textbookSources[0].section.startsWith('6.3.1')&&BY_ID.get(143).textbookSources[0].section.startsWith('10.1.3'));
+    check('SSAM and Windows command details remain marked related reading',[511,516,517,518,519].every(id=>BY_ID.get(id).textbookSources[0].kind==='related'));
     check('39 figures / answer figure hidden from exam',BANK.reduce((n,q)=>n+q.images.length,0)===39&&BY_ID.get(233).images[0].role==='explanation');
     const sampled=new Set();let valid=true;
     for(let i=0;i<1000;i++){const ids=randomSample(BANK.map(q=>q.id),100);valid&&=ids.length===100&&new Set(ids).size===100&&ids.every(id=>BY_ID.has(id));ids.forEach(id=>sampled.add(id));}
@@ -15,7 +19,7 @@
     check('all 522 IDs selectable across samples',sampled.size===522);
     click('[data-action="start"]');
     check('start button creates 120-minute 100-question exam',view==='exam'&&validExam(state.active)&&state.active.deadline-state.active.startedAt===7200000);
-    check('exam hides answers and explanations',!document.querySelector('.explanation')&&!document.querySelector('.option.correct')&&document.querySelectorAll('[role="radio"]').length===4);
+    check('exam hides answers and explanations',!document.querySelector('.explanation')&&!document.querySelector('.textbook-sources')&&!document.querySelector('.option.correct')&&document.querySelectorAll('[role="radio"]').length===4);
     const examId=state.active.id,ids=[...state.active.ids],first=ids[0];
     click('[data-answer="B"]');click('[data-action="flag"]');
     check('radio answer and flag handlers',state.active.answers[first]==='B'&&state.active.flags.includes(first)&&document.querySelector('[data-answer="B"]').getAttribute('aria-checked')==='true');
@@ -55,6 +59,12 @@
     check('search by original question number',libraryId===522&&libraryPool().length===1&&document.querySelector('.q-figure'));
     click('[data-action="reveal"]');
     check('diagram question and explanation render',document.querySelector('.q-figure').src.startsWith('data:image/webp;')&&document.querySelector('.explanation p').textContent.includes('网关'));
+    check('related textbook source renders with its qualification',document.querySelector('.textbook-kind.related')?.textContent==='相关章节'&&document.querySelector('.textbook-note')?.textContent.includes('未直接'));
+    check('textbook source link stays relative and uses physical PDF pages',document.querySelector('.textbook-page').getAttribute('href').startsWith('./')&&document.querySelector('.textbook-page').getAttribute('href').includes('#page=342'));
+    const sourceSearch=$('library-search');sourceSearch.value='#155';sourceSearch.dispatchEvent(new Event('input',{bubbles:true}));click('[data-action="reveal"]');
+    check('knowledge source shows section, printed page and PDF page',document.querySelector('.textbook-sources').textContent.includes('7.2.6')&&document.querySelector('.textbook-page').textContent.includes('P304')&&document.querySelector('.textbook-page').getAttribute('href').endsWith('#page=309'));
+    const exportedSources=textbookSourceLines(BY_ID.get(155)).join('\n');
+    check('exported source lines include book, section and both page systems',exportedSources.includes('注册信息安全专业人员培训教材')&&exportedSources.includes('7.2.6')&&exportedSources.includes('P304')&&exportedSources.includes('309'));
     go('home');state.active=null;makeExam();const expiredId=state.active.id,deadline=state.active.deadline;Date.now=()=>deadline+100;tick();Date.now=realNow;
     check('deadline automatically submits once',!state.active&&currentRecord.id===expiredId&&currentRecord.timeout&&currentRecord.finishedAt===deadline);
     tick();check('timeout is not duplicated',state.history.filter(r=>r.id===expiredId).length===1);

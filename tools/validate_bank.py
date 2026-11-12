@@ -6,12 +6,17 @@ import json
 import re
 import unicodedata
 from pathlib import Path
+from source_data import attach_textbook_sources
 
 ROOT=Path(__file__).resolve().parent.parent
 parser=argparse.ArgumentParser()
 parser.add_argument('--source',type=Path)
+parser.add_argument('--textbook',type=Path)
 args=parser.parse_args()
 bank=json.loads((ROOT/'data/questions.json').read_text())
+original_bank=json.dumps(bank,ensure_ascii=False,sort_keys=True)
+textbook_manifest=attach_textbook_sources(bank,ROOT)
+assert json.dumps(bank,ensure_ascii=False,sort_keys=True)==original_bank,'Question textbook sources are stale; rebuild first'
 html=(ROOT/'index.html').read_text()
 assert len(bank)==522
 assert [q['id'] for q in bank]==list(range(1,523))
@@ -52,6 +57,26 @@ if args.source:
         actual_page=next(n+1 for n,end in enumerate(page_ends) if end>=m.start(1))
         assert bank[i]['sourcePage']==actual_page,(i+1,'page mismatch')
     source_hash=hashlib.sha256(args.source.read_bytes()).hexdigest()
+if args.textbook:
+    import pypdfium2 as pdfium
+    assert hashlib.sha256(args.textbook.read_bytes()).hexdigest()==textbook_manifest['book']['sha256'],'Different textbook edition'
+    textbook=pdfium.PdfDocument(str(args.textbook))
+    assert len(textbook)==textbook_manifest['book']['pdfPageCount']
+    for q in bank:
+        for ref in q['textbookSources']:
+            page=textbook[ref['pdfPage']-1]
+            textpage=page.get_textpage()
+            assert len(textpage.get_text_range().strip())>20,(q['id'],'Empty cited textbook page')
+            textpage.close()
+            page.close()
+    textbook.close()
 report=dict(questions=len(bank),sourceAnswerChecks=522 if args.source else None,sourcePageChecks=522 if args.source else None,figures=sum(len(q['images']) for q in bank),supplementedExplanations=sum(q['explanationSource']=='学习补充' for q in bank),originalExplanations=sum(q['explanationSource']=='题库原解析' for q in bank),notedQuestions=[q['id'] for q in bank if q['note']],answerDistribution={c:sum(q['answer']==c for q in bank) for c in 'ABCD'},questionPdfSha256=source_hash,htmlSha256=hashlib.sha256(html.encode()).hexdigest(),selfContained=True)
+report['textbookReferences']={
+    'coveredQuestions':sum(bool(q['textbookSources']) for q in bank),
+    'knowledgePointQuestions':sum(q['textbookSources'][0]['kind']=='knowledge' for q in bank),
+    'relatedReadingQuestions':sum(q['textbookSources'][0]['kind']=='related' for q in bank),
+    'bookSha256':textbook_manifest['book']['sha256'],
+    'bookFileChecked':bool(args.textbook),
+}
 (ROOT/'data/validation-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps(report,ensure_ascii=False,indent=2))
