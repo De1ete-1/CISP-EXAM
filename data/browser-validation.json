@@ -1,0 +1,357 @@
+{
+  "date": "2026-11-12",
+  "desktop": {
+    "passed": 41,
+    "total": 41,
+    "results": [
+      {
+        "name": "522 complete questions",
+        "passed": true
+      },
+      {
+        "name": "39 figures / answer figure hidden from exam",
+        "passed": true
+      },
+      {
+        "name": "1000 independent samples have 100 unique valid IDs",
+        "passed": true
+      },
+      {
+        "name": "all 522 IDs selectable across samples",
+        "passed": true
+      },
+      {
+        "name": "start button creates 120-minute 100-question exam",
+        "passed": true
+      },
+      {
+        "name": "exam hides answers and explanations",
+        "passed": true
+      },
+      {
+        "name": "radio answer and flag handlers",
+        "passed": true
+      },
+      {
+        "name": "navigation preserves answers",
+        "passed": true
+      },
+      {
+        "name": "saved exam restores exact deck, answer, flag and deadline",
+        "passed": true
+      },
+      {
+        "name": "clear answer updates saved progress",
+        "passed": true
+      },
+      {
+        "name": "submit confirmation includes unanswered count",
+        "passed": true
+      },
+      {
+        "name": "cancel preserves active exam",
+        "passed": true
+      },
+      {
+        "name": "score boundary 0",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 0",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 0",
+        "passed": true
+      },
+      {
+        "name": "score boundary 69",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 69",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 69",
+        "passed": true
+      },
+      {
+        "name": "score boundary 70",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 70",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 70",
+        "passed": true
+      },
+      {
+        "name": "score boundary 71",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 71",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 71",
+        "passed": true
+      },
+      {
+        "name": "score boundary 100",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 100",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 100",
+        "passed": true
+      },
+      {
+        "name": "all unanswered scores zero and collects 100 wrongs",
+        "passed": true
+      },
+      {
+        "name": "wrong review shows answer, explanation and source",
+        "passed": true
+      },
+      {
+        "name": "review next navigates",
+        "passed": true
+      },
+      {
+        "name": "all-question review available",
+        "passed": true
+      },
+      {
+        "name": "wrong navigation resets library filters",
+        "passed": true
+      },
+      {
+        "name": "wrong self-test reveals reasoning",
+        "passed": true
+      },
+      {
+        "name": "mastering removes question from pending book",
+        "passed": true
+      },
+      {
+        "name": "search by original question number",
+        "passed": true
+      },
+      {
+        "name": "diagram question and explanation render",
+        "passed": true
+      },
+      {
+        "name": "deadline automatically submits once",
+        "passed": true
+      },
+      {
+        "name": "timeout is not duplicated",
+        "passed": true
+      },
+      {
+        "name": "storage failure has visible warning and preserves exam state",
+        "passed": true
+      },
+      {
+        "name": "reload fixture valid",
+        "passed": true
+      },
+      {
+        "name": "zero horizontal overflow",
+        "passed": true
+      }
+    ],
+    "viewport": [
+      1200,
+      800
+    ]
+  },
+  "mobile": {
+    "passed": 41,
+    "total": 41,
+    "results": [
+      {
+        "name": "522 complete questions",
+        "passed": true
+      },
+      {
+        "name": "39 figures / answer figure hidden from exam",
+        "passed": true
+      },
+      {
+        "name": "1000 independent samples have 100 unique valid IDs",
+        "passed": true
+      },
+      {
+        "name": "all 522 IDs selectable across samples",
+        "passed": true
+      },
+      {
+        "name": "start button creates 120-minute 100-question exam",
+        "passed": true
+      },
+      {
+        "name": "exam hides answers and explanations",
+        "passed": true
+      },
+      {
+        "name": "radio answer and flag handlers",
+        "passed": true
+      },
+      {
+        "name": "navigation preserves answers",
+        "passed": true
+      },
+      {
+        "name": "saved exam restores exact deck, answer, flag and deadline",
+        "passed": true
+      },
+      {
+        "name": "clear answer updates saved progress",
+        "passed": true
+      },
+      {
+        "name": "submit confirmation includes unanswered count",
+        "passed": true
+      },
+      {
+        "name": "cancel preserves active exam",
+        "passed": true
+      },
+      {
+        "name": "score boundary 0",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 0",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 0",
+        "passed": true
+      },
+      {
+        "name": "score boundary 69",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 69",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 69",
+        "passed": true
+      },
+      {
+        "name": "score boundary 70",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 70",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 70",
+        "passed": true
+      },
+      {
+        "name": "score boundary 71",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 71",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 71",
+        "passed": true
+      },
+      {
+        "name": "score boundary 100",
+        "passed": true
+      },
+      {
+        "name": "pass threshold 100",
+        "passed": true
+      },
+      {
+        "name": "review and wrong-book totals 100",
+        "passed": true
+      },
+      {
+        "name": "all unanswered scores zero and collects 100 wrongs",
+        "passed": true
+      },
+      {
+        "name": "wrong review shows answer, explanation and source",
+        "passed": true
+      },
+      {
+        "name": "review next navigates",
+        "passed": true
+      },
+      {
+        "name": "all-question review available",
+        "passed": true
+      },
+      {
+        "name": "wrong navigation resets library filters",
+        "passed": true
+      },
+      {
+        "name": "wrong self-test reveals reasoning",
+        "passed": true
+      },
+      {
+        "name": "mastering removes question from pending book",
+        "passed": true
+      },
+      {
+        "name": "search by original question number",
+        "passed": true
+      },
+      {
+        "name": "diagram question and explanation render",
+        "passed": true
+      },
+      {
+        "name": "deadline automatically submits once",
+        "passed": true
+      },
+      {
+        "name": "timeout is not duplicated",
+        "passed": true
+      },
+      {
+        "name": "storage failure has visible warning and preserves exam state",
+        "passed": true
+      },
+      {
+        "name": "reload fixture valid",
+        "passed": true
+      },
+      {
+        "name": "zero horizontal overflow",
+        "passed": true
+      }
+    ],
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  "manualChecks": {
+    "actualNavigationReloadRestoredExactSession": true,
+    "allSixViewsMobileNoHorizontalOverflow": true,
+    "markdownExportScoreAndWrongCountAndReasoningAndSource": true,
+    "offlineFileExamAndLocalStorage": true
+  }
+}
